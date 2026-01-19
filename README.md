@@ -128,4 +128,5 @@ Live: https://luman-hotel.vercel.app
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=iamfaizandev&icon=5&color=1)
+![Profile Views](https://komarev.com/ghpvc/?username=iamfaizandev&label=Profile%20Views&color=0e75b6&style=flat)
+
