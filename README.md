@@ -54,26 +54,61 @@ If you’re facing frontend problems or need help building UI that actually work
 ---
 
 ## 📌 Highlighted Projects
-
-### 🛒 MyAZStore — Full-Stack E-commerce Platform  
-🔗 Live: https://myazstore.shop  
-
-- React + TypeScript frontend with Zustand state management  
-- Secure authentication using HttpOnly cookies  
-- Razorpay payment integration  
-- Automated PDF invoices & order emails  
-- Admin dashboard for products, orders & inventory  
-
-**Tech:** React, TypeScript, Zustand, Node.js, MongoDB
+## 🚀 Featured Projects
 
 ---
 
-### 🎨 Luman Studio — Interactive Frontend Experience  
-🔗 Live: https://luman-studio.vercel.app  
+### 🛒 MyAZStore — Full-Stack E-commerce Platform
+Live Shop: https://myazstore.shop  
+Admin Panel: https://admin.myazstore.shop  
 
-- Built with Next.js + TypeScript  
-- Animation-heavy storytelling UI using Framer Motion  
-- Optimized for performance and SEO  
+<img src="https://res.cloudinary.com/daqb5wglu/image/upload/v1766169968/ShopUI_evspte.png" alt="MyAZStore Shop UI" width="100%" />
+<br/>
+<img src="https://res.cloudinary.com/daqb5wglu/image/upload/v1766169967/AdminDash_c87c4j.png" alt="MyAZStore Admin Dashboard" width="100%" />
+
+**Highlights**
+- React + TypeScript frontend with Zustand state management  
+- Secure authentication using HttpOnly cookies  
+- Razorpay payment integration  
+- Automated PDF invoices & order email notifications  
+- Admin dashboard for product, order & inventory management  
+
+**Tech Stack:** React, TypeScript, Zustand, Node.js, MongoDB, Razorpay, Vercel
+
+---
+
+### 🎨 Luman Studio — Interactive Storytelling Website
+Live: https://luman-studio.vercel.app  
+
+<img src="https://res.cloudinary.com/daqb5wglu/image/upload/v1768824851/luman-stdio_cctkn5.png" alt="Luman Studio UI" width="100%" />
+<br/>
+<img src="https://res.cloudinary.com/daqb5wglu/image/upload/v1768824853/luman-stdio-2_h1llq5.png" alt="Luman Studio UI Section" width="100%" />
+
+**Highlights**
+- High-end storytelling UI built with Next.js & TypeScript  
+- Advanced Framer Motion animations  
+- Scroll-based interactions and immersive visual flow  
+- Performance optimized with Next.js image optimization  
+
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Framer Motion, Vercel
+
+---
+
+### 🏨 Luman Hotel — Luxury Hotel Frontend Experience
+Live: https://luman-hotel.vercel.app  
+
+<img src="https://res.cloudinary.com/daqb5wglu/image/upload/v1768824858/luman-hotel1_v5vv6v.png" alt="Luman Hotel UI" width="100%" />
+<br/>
+<img src="https://res.cloudinary.com/daqb5wglu/image/upload/v1768824842/luman-hotel2_t7ysf0.png" alt="Luman Hotel Rooms UI" width="100%" />
+
+**Highlights**
+- Premium, animation-rich hotel frontend UI  
+- Smooth room exploration & modern layout  
+- Mobile-first responsive design  
+- Built to simulate a real hospitality browsing experience  
+
+**Tech Stack:** React.js, TypeScript, Tailwind CSS, Framer Motion, Vercel
+ 
 
 ---
 
