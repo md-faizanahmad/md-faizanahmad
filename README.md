@@ -88,9 +88,9 @@ If you’re facing frontend problems or need help building UI that actually work
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamfaizandev&theme=dark&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamfaizandev&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamfaizandev&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-faizanahmad&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=md-faizanahmad&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-faizanahmad&layout=compact&theme=dark&hide_border=true)
 
 ---
 
