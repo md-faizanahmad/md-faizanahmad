@@ -4,7 +4,7 @@
 ## Frontend Developer (React • TypeScript • Modern UI)
 
 <a href="https://mdfaizanahmad.vercel.app" target="_blank">
-  <strong>🌐 Visit My Portfolio</strong>
+  <strong>🌐 Visit My Portfolio</strong> 
 </a>
 
 ---
@@ -12,7 +12,6 @@
 ## 🚀 About Me
 
 I’m a **Frontend Developer** focused on building **clean, scalable, and production-ready user interfaces** using **React and TypeScript**.
-
 I work on **real-world projects**, not just tutorials — with proper state management, API integration, authentication flows, and performance optimization.
 
 ### What I’m doing right now:
@@ -124,7 +123,7 @@ Live: https://luman-hotel.vercel.app
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-faizanahmad&theme=dark&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=md-faizanahmad&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=iamfaizandev&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-faizanahmad&layout=compact&theme=dark&hide_border=true)
 
 ---
