@@ -123,7 +123,7 @@ Live: https://luman-hotel.vercel.app
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-faizanahmad&theme=dark&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=iamfaizandev&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=md-faizanahmad&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-faizanahmad&layout=compact&theme=dark&hide_border=true)
 
 ---
