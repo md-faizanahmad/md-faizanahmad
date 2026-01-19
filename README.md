@@ -1,4 +1,3 @@
-![Banner](https://github.com/user-attachments/assets/57f67fd1-789c-4744-9d01-7abc7c82f7ba)
 
 # Md Faizan Ahmad  
 ### Frontend Developer — React • TypeScript • Modern UI
