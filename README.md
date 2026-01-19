@@ -53,7 +53,7 @@ If you’re facing frontend problems or need help building UI that actually work
 
 ---
 
-## 📌 Highlighted Projects
+
 ## 🚀 Featured Projects
 
 ---
