@@ -1,6 +1,6 @@
 
 # Md Faizan Ahmad  
-### Frontend Developer — React • TypeScript • Modern UI
+### Frontend Developer — React • TypeScript • Modern & Responsive Web App UI 
 
 🌐 Portfolio: https://mdfaizanahmad.vercel.app  
 📧 Email: md.faizan.ahmad.web@gmail.com  
