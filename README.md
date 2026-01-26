@@ -1,4 +1,3 @@
-
 # Md Faizan Ahmad  
 ### Frontend Developer — React • TypeScript • Modern & Responsive Web App UI 
 
