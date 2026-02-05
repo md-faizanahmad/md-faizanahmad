@@ -93,7 +93,7 @@ https://school-demo-sepia.vercel.app/
 
 <h3>📱 Mobile View</h3>
 <img
-  src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770280049/school-screenshot_hzbjgj.png"
+  src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770280035/mobile-hero_kmvpsi.png"
   alt="School Website Mobile View"
   width="40%"
 />
