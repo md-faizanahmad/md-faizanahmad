@@ -57,6 +57,50 @@ Live: https://luman-hotel.vercel.app
 - Realistic hospitality browsing experience  
 
 **Tech:** React, TypeScript, Tailwind CSS, Framer Motion
+---
+<h2>🏫 School Website – Mobile-First & Admission-Focused</h2>
+
+<p>
+A modern, fully server-rendered school website built with <strong>Next.js</strong> and
+<strong>Tailwind CSS</strong>, designed for real schools and real parents.
+The project focuses on <strong>mobile-first UX</strong>, <strong>SEO performance</strong>,
+and <strong>admission enquiry conversion</strong> rather than unnecessary dashboards.
+</p>
+
+<p>
+The website includes complete school pages (Home, About, Academics, Faculty, Fees,
+Gallery, Results, Contact & Admissions), a live notice board powered by Google Sheets,
+and an admission enquiry system that sends details to both the school and parents.
+</p>
+
+<p>
+🔗 <strong>Live Demo:</strong>
+<a href="https://school-demo-sepia.vercel.app/" target="_blank">
+https://school-demo-sepia.vercel.app/
+</a>
+</p>
+
+<br />
+
+<h3>🖥 Desktop View</h3>
+<img
+  src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770280034/Header_yt9bly.png"
+  alt="School Website Desktop View"
+  width="100%"
+/>
+
+<br /><br />
+
+<h3>📱 Mobile View</h3>
+<img
+  src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770280049/school-screenshot_hzbjgj.png"
+  alt="School Website Mobile View"
+  width="40%"
+/>
+
+
+
+
 
 ---
 
