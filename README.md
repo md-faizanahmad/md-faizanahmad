@@ -20,9 +20,14 @@ Admin Panel: https://admin.myazstore.shop
 <h3>Admin Home </h3>
 <img src="https://res.cloudinary.com/daqb5wglu/image/upload/v1766169967/AdminDash_c87c4j.png" width="100%" />
 <h3>Admin manage products,orders,shop hero banner </h3>
-<img src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770627931/Admin_product-manage_g9x3yn.png" width="100%" />
-<img src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770627931/Admin_order-manage_bux1wl.png" width="100%" />
-<img src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770627930/Admin_analytics_k0jkwa.png" width="100%" />
+<img src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770627931/Admin_product-manage_g9x3yn.png" width="100%" alt="Admin_product-manage" />
+<hr/>
+<img src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770627931/Admin_order-manage_bux1wl.png" width="100%" alt="Admin_order-manage"/>
+<hr/>
+<img src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770627930/Admin_analytics_k0jkwa.png" width="100%" alt="Admin_analytics" />
+<hr/>
+<img src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770627931/Admin_store-hero-manage_q3wcez.png" width="100%" alt="Admin_store-hero-manage"/>
+<hr/>
 **Why it matters**
 - Production-ready e-commerce with real users  
 - Scalable React + TypeScript frontend  
