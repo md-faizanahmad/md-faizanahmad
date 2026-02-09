@@ -16,7 +16,7 @@ Admin Panel: https://admin.myazstore.shop
 <img src="https://res.cloudinary.com/daqb5wglu/image/upload/v1766169968/ShopUI_evspte.png" width="100%" />
 <br/>
 <img src="https://res.cloudinary.com/daqb5wglu/image/upload/v1766169967/AdminDash_c87c4j.png" width="100%" />
-
+<img src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770627930/Admin_login_d852pu.png" width="100%" />
 **Why it matters**
 - Production-ready e-commerce with real users  
 - Scalable React + TypeScript frontend  
