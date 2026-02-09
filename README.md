@@ -30,6 +30,17 @@ Admin Panel: https://admin.myazstore.shop
   alt="AdminDash Mobile View"
   width="40%"
 />
+<img
+  src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770628702/Screenshot_20260209-144617_dhmhjk.png"
+  alt="AdminDash Mobile View"
+  width="40%"
+/>
+<img
+  src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770628703/Screenshot_20260209-144559_b8iggu.png"
+  alt="AdminDash Mobile View"
+  width="40%"
+/>
+
 <h3>Admin manage products,orders,shop hero banner </h3>
 <img src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770627931/Admin_product-manage_g9x3yn.png" width="100%" alt="Admin_product-manage" />
 <hr/>
