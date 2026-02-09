@@ -17,8 +17,14 @@ Admin Panel: https://admin.myazstore.shop
 <br/>
 <h3>Admin Login secured by Multi factor authentication by google </h3>
 <img src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770627930/Admin_login_d852pu.png" width="100%" />
-<h3>Admin Home </h3>
+<h3>Admin Home (Desktop) </h3>
 <img src="https://res.cloudinary.com/daqb5wglu/image/upload/v1766169967/AdminDash_c87c4j.png" width="100%" />
+<h3>📱 Mobile View</h3>
+<img
+  src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770628702/Screenshot_20260209-144531_hgvuqn.png"
+  alt="AdminDash Mobile View"
+  width="40%"
+/>
 <h3>Admin manage products,orders,shop hero banner </h3>
 <img src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770627931/Admin_product-manage_g9x3yn.png" width="100%" alt="Admin_product-manage" />
 <hr/>
