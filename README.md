@@ -156,7 +156,6 @@
       <li>Integrated Google Sheets as lightweight CMS</li>
       <li>Mobile-first design focused on parent conversion</li>
     </ul>
-
     <p>
       <strong>Stack:</strong>
       Next.js • Tailwind CSS • Serverless APIs • Nodemailer
