@@ -1,193 +1,224 @@
-# Md Faizan Ahmad  
-### Frontend Developer — React.js • JavaScript • Next.js • Tailwind, Framer-Motion, Bootstrap • Basic Node.js & REST APIs • Modern & Responsive Web App UI 
+<!-- ================= HERO SECTION ================= -->
 
-🌐 Portfolio: https://mdfaizanahmad.vercel.app  
-📧 Email: md.faizan.ahmad.web@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/mdfaizandahmad  
+<header>
+  <h1>Md Faizan Ahmad</h1>
+  <p>
+    <strong>Frontend Engineer</strong> —
+    React.js • Next.js • TypeScript • Performance-Focused UI
+  </p>
 
----
+  <p>
+    🌐 <a href="https://mdfaizanahmad.vercel.app" target="_blank">Portfolio</a> |
+    📧 <a href="mailto:md.faizan.ahmad.web@gmail.com">Email</a> |
+    💼 <a href="https://linkedin.com/in/mdfaizandahmad" target="_blank">LinkedIn</a>
+  </p>
+</header>
 
-## 🚀 Featured Work (Proof First)
+<hr />
 
-### 🛒 MyAZStore — Full-Stack E-commerce Platform
-Live Shop: https://myazstore.shop  
-Admin Panel: https://admin.myazstore.shop  
+<!-- ================= ABOUT ================= -->
 
-<img src="https://res.cloudinary.com/daqb5wglu/image/upload/v1766169968/ShopUI_evspte.png" width="100%" />
-<br/>
-<h3>Admin Login secured by Multi factor authentication by google </h3>
-<img src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770627930/Admin_login_d852pu.png" width="100%" />
-<h3>Admin Home (Desktop) </h3>
-<img src="https://res.cloudinary.com/daqb5wglu/image/upload/v1766169967/AdminDash_c87c4j.png" width="100%" />
-<h3>📱 Mobile View</h3>
-<p align="center" ">
-  <img
-  src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770628702/Screenshot_20260209-144531_hgvuqn.png"
-  alt="AdminDash Mobile View"  border="2px solid black"
-  width="32%"
-/><img
-  src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770628702/Screenshot_20260209-144541_dggscm.png"
-  alt="AdminDash Mobile View" border="2px solid black"
-  width="32%"
-/><img
-  src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770628702/Screenshot_20260209-144617_dhmhjk.png"
-  alt="AdminDash Mobile View" border="2px solid black"
-  width="32%"
-/>
-</p>
-<p align="center">
-<img
-  src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770628703/Screenshot_20260209-144559_b8iggu.png"
-  alt="AdminDash Mobile View"
-  width="40%"
-/>
-</p>
+<section>
+  <h2>About Me</h2>
+  <p>
+    I build production-ready React applications with a strong focus on
+    performance, clean component architecture, and scalable UI systems.
+  </p>
+  <ul>
+    <li>Strong in TypeScript and reusable component design</li>
+    <li>Performance optimization for mobile and low-end devices</li>
+    <li>Experience building full-stack products with real users</li>
+    <li>Comfortable integrating REST APIs and backend services</li>
+  </ul>
+</section>
 
+<hr />
 
+<!-- ================= FEATURED PROJECTS ================= -->
 
+<section>
+  <h2>Featured Projects</h2>
 
-<h3>Admin manage products,orders,shop hero banner </h3>
-<p align="center"> 
-  <img src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770627931/Admin_product-manage_g9x3yn.png" width="100%" alt="Admin_product-manage" width="20%"/>
-  <img src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770627931/Admin_order-manage_bux1wl.png" width="100%" alt="Admin_order-manage" width="20%" />
-  <img src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770627930/Admin_analytics_k0jkwa.png" width="100%" alt="Admin_analytics" width="20%" />
-  <img src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770627931/Admin_store-hero-manage_q3wcez.png" width="100%" alt="Admin_store-hero-manage" width="20%" />
-</p>
+  <!-- ============ PROJECT 1 ============ -->
 
-<hr/>
+  <article>
+    <h3>MyAZStore — Full-Stack E-commerce Platform</h3>
 
-<hr/>
+    <p>
+      <strong>Live Shop:</strong>
+      <a href="https://myazstore.shop" target="_blank">myazstore.shop</a><br />
+      <strong>Admin Panel:</strong>
+      <a href="https://admin.myazstore.shop" target="_blank">admin.myazstore.shop</a>
+    </p>
 
-<hr/>
+    <img
+      src="https://res.cloudinary.com/daqb5wglu/image/upload/v1766169968/ShopUI_evspte.png"
+      alt="MyAZStore homepage showing product grid, navigation, and shopping interface"
+      width="100%"
+    />
 
-<hr/>
-**Why it matters**
-- Production-ready e-commerce with real users  
-- Scalable React + TypeScript frontend  
-- Secure auth using HttpOnly cookies  
-- Razorpay payments + automated PDF invoices  
-- Full admin dashboard (products, orders, inventory)
+    <h4>Key Contributions</h4>
+    <ul>
+      <li>Built complete cart, checkout, and authentication flow</li>
+      <li>Implemented JWT auth with HttpOnly cookies</li>
+      <li>Integrated Razorpay payment gateway</li>
+      <li>Generated automated PDF invoices after successful orders</li>
+      <li>Created role-based admin dashboard (products, orders, analytics)</li>
+      <li>Enabled Google-based multi-factor authentication for admin</li>
+    </ul>
 
-**Tech:** React, TypeScript, Zustand, Node.js, MongoDB, Razorpay, Vercel
+    <p>
+      <strong>Stack:</strong>
+      React • TypeScript • Zustand • Node.js • MongoDB • Razorpay • Vercel
+    </p>
+  </article>
 
----
+  <hr />
 
-### 🎨 Luman Studio — Interactive Storytelling UI
-Live: https://luman-studio.vercel.app  
+  <!-- ============ PROJECT 2 ============ -->
 
-<img src="https://res.cloudinary.com/daqb5wglu/image/upload/v1768824851/luman-stdio_cctkn5.png" width="100%" />
-<br/>
-<img src="https://res.cloudinary.com/daqb5wglu/image/upload/v1768824853/luman-stdio-2_h1llq5.png" width="100%" />
+  <article>
+    <h3>Luman Studio — Interactive Storytelling Experience</h3>
 
-**Why it matters**
-- High-end animation-driven frontend experience  
-- Scroll-based storytelling & interaction design  
-- Performance-optimized Next.js architecture  
+    <p>
+      <strong>Live:</strong>
+      <a href="https://luman-studio.vercel.app" target="_blank">
+        luman-studio.vercel.app
+      </a>
+    </p>
 
-**Tech:** Next.js, TypeScript, Tailwind CSS, Framer Motion
+    <img
+      src="https://res.cloudinary.com/daqb5wglu/image/upload/v1768824851/luman-stdio_cctkn5.png"
+      alt="Luman Studio homepage featuring scroll-driven storytelling layout and animated UI"
+      width="100%"
+    />
 
----
+    <h4>Key Contributions</h4>
+    <ul>
+      <li>Implemented scroll-based animation system using Framer Motion</li>
+      <li>Built interactive UI transitions and parallax effects</li>
+      <li>Optimized performance with Next.js server components</li>
+      <li>Designed responsive layout with mobile-first approach</li>
+    </ul>
 
-### 🏨 Luman Hotel — Luxury Frontend Experience
-Live: https://luman-hotel.vercel.app  
+    <p>
+      <strong>Stack:</strong>
+      Next.js • TypeScript • Tailwind CSS • Framer Motion
+    </p>
+  </article>
 
-<img src="https://res.cloudinary.com/daqb5wglu/image/upload/v1768824858/luman-hotel1_v5vv6v.png" width="100%" />
-<br/>
-<img src="https://res.cloudinary.com/daqb5wglu/image/upload/v1768824842/luman-hotel2_t7ysf0.png" width="100%" />
+  <hr />
 
-**Why it matters**
-- Premium UI with animation-rich UX  
-- Mobile-first, responsive layout  
-- Realistic hospitality browsing experience  
+  <!-- ============ PROJECT 3 ============ -->
 
-**Tech:** React, TypeScript, Tailwind CSS, Framer Motion
----
-<h2>🏫 School Website – Mobile-First & Admission-Focused</h2>
+  <article>
+    <h3>Luman Hotel — Modern Booking Interface</h3>
 
-<p>
-A modern, fully server-rendered school website built with <strong>Next.js</strong> and
-<strong>Tailwind CSS</strong>, designed for real schools and real parents.
-The project focuses on <strong>mobile-first UX</strong>, <strong>SEO performance</strong>,
-and <strong>admission enquiry conversion</strong> rather than unnecessary dashboards.
-</p>
+    <p>
+      <strong>Live:</strong>
+      <a href="https://luman-hotel.vercel.app" target="_blank">
+        luman-hotel.vercel.app
+      </a>
+    </p>
 
-<p>
-The website includes complete school pages (Home, About, Academics, Faculty, Fees,
-Gallery, Results, Contact & Admissions), a live notice board powered by Google Sheets,
-and an admission enquiry system that sends details to both the school and parents.
-</p>
+    <img
+      src="https://res.cloudinary.com/daqb5wglu/image/upload/v1768824858/luman-hotel1_v5vv6v.png"
+      alt="Luxury hotel booking interface with room selection and reservation details"
+      width="100%"
+    />
 
-<p>
-🔗 <strong>Live Demo:</strong>
-<a href="https://school-demo-sepia.vercel.app/" target="_blank">
-https://school-demo-sepia.vercel.app/
-</a>
-</p>
+    <h4>Key Contributions</h4>
+    <ul>
+      <li>Built step-based booking system with validation logic</li>
+      <li>Implemented GST calculation and dynamic price summary</li>
+      <li>Created serverless API route for booking confirmation email</li>
+      <li>Designed mobile-first responsive UI</li>
+    </ul>
 
-<br />
+    <p>
+      <strong>Stack:</strong>
+      Next.js • TypeScript • Tailwind CSS • Node.js (Serverless)
+    </p>
+  </article>
 
-<h3>🖥 Desktop View</h3>
-<img
-  src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770280034/Header_yt9bly.png"
-  alt="School Website Desktop View"
-  width="100%"
-/>
+  <hr />
 
-<br /><br />
+  <!-- ============ PROJECT 4 ============ -->
 
-<h3>📱 Mobile View</h3>
-<img
-  src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770280035/mobile-hero_kmvpsi.png"
-  alt="School Website Mobile View"
-  width="40%"
-/>
+  <article>
+    <h3>School Website — SEO & Admission-Focused Platform</h3>
 
+    <p>
+      <strong>Live:</strong>
+      <a href="https://school-demo-sepia.vercel.app" target="_blank">
+        school-demo-sepia.vercel.app
+      </a>
+    </p>
 
+    <img
+      src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770280034/Header_yt9bly.png"
+      alt="School website homepage with navigation, hero section, and admission call to action"
+      width="100%"
+    />
 
+    <h4>Key Contributions</h4>
+    <ul>
+      <li>Fully server-rendered Next.js architecture</li>
+      <li>SEO optimization with structured metadata</li>
+      <li>Admission enquiry form with email notification system</li>
+      <li>Integrated Google Sheets as lightweight CMS</li>
+      <li>Mobile-first design focused on parent conversion</li>
+    </ul>
 
+    <p>
+      <strong>Stack:</strong>
+      Next.js • Tailwind CSS • Serverless APIs • Nodemailer
+    </p>
+  </article>
 
----
+</section>
 
-## 🧠 Core Frontend Skills
+<hr />
 
-**Frontend**
-- React.js, Next.js  
-- TypeScript (strict), JavaScript (ES6+)  
-- HTML5, CSS3  
-- Tailwind CSS, Bootstrap  
-- Framer Motion  
+<!-- ================= SKILLS ================= -->
 
-**State & Data**
-- Zustand  
-- Redux Toolkit  
-- React Router  
-- REST API Integration  
+<section>
+  <h2>Technical Skills</h2>
 
-**Backend (Supporting)**
-- Node.js, Express  
-- MongoDB  
-- Firebase (Auth, Hosting)
+  <h3>Frontend</h3>
+  <p>
+    React • Next.js • TypeScript • JavaScript (ES6+) • HTML5 • CSS3
+  </p>
 
-**Tools**
-- Git & GitHub  
-- Vercel  
-- Postman  
+  <h3>UI & Styling</h3>
+  <p>
+    Tailwind CSS • Bootstrap • Framer Motion
+  </p>
 
----
+  <h3>State & Data</h3>
+  <p>
+    Zustand • Redux Toolkit • REST API Integration • Axios
+  </p>
 
-## 👋 About Me (Short & Honest)
+  <h3>Backend Familiarity</h3>
+  <p>
+    Node.js • Express • MongoDB • Firebase
+  </p>
 
-Frontend Developer focused on building **production-ready React applications**, not demo apps.  
-Strong in **TypeScript, UI architecture, animations, and API-driven interfaces**.
+  <h3>Tools</h3>
+  <p>
+    Git • GitHub • Vercel • Postman
+  </p>
+</section>
 
-Actively looking for a **Frontend / React Developer** role where UI quality, performance, and real product thinking matter.
+<hr />
 
----
+<!-- ================= CAREER GOAL ================= -->
 
-## 📊 GitHub Stats (Optional, Not the Hero)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-faizanahmad&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-faizanahmad&layout=compact&theme=dark&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?username=md-faizanahmad&theme=dark&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=iamfaizandev&label=Profile%20Views&color=0e75b6&style=flat)
+<section>
+  <h2>Career Objective</h2>
+  <p>
+    Seeking a Frontend / React Developer role in a product-focused team
+    where performance, scalability, and clean UI architecture matter.
+  </p>
+</section>
