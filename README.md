@@ -54,6 +54,8 @@
       alt="MyAZStore homepage showing product grid, navigation, and shopping interface"
       width="100%"
     />
+    <h5>Shop Admin Panel</h5>
+    <img src="https://res.cloudinary.com/daqb5wglu/image/upload/v1766169967/AdminDash_c87c4j.png" width="100%" />
     <h4>Key Contributions</h4>
     <ul>
       <li>Built complete cart, checkout, and authentication flow</li>
