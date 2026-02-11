@@ -20,21 +20,24 @@ Admin Panel: https://admin.myazstore.shop
 <h3>Admin Home (Desktop) </h3>
 <img src="https://res.cloudinary.com/daqb5wglu/image/upload/v1766169967/AdminDash_c87c4j.png" width="100%" />
 <h3>📱 Mobile View</h3>
-<img
+<p align="center">
+  <img
   src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770628702/Screenshot_20260209-144531_hgvuqn.png"
-  alt="AdminDash Mobile View"
-  width="40%"
-/>
-<img
+  alt="AdminDash Mobile View" 
+  width="32%"
+/><img
   src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770628702/Screenshot_20260209-144541_dggscm.png"
   alt="AdminDash Mobile View"
-  width="40%"
-/>
-<img
+  width="32%"
+/><img
   src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770628702/Screenshot_20260209-144617_dhmhjk.png"
   alt="AdminDash Mobile View"
-  width="40%"
+  width="32%"
 />
+</p>
+
+
+
 <img
   src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770628703/Screenshot_20260209-144559_b8iggu.png"
   alt="AdminDash Mobile View"
