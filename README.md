@@ -23,15 +23,15 @@ Admin Panel: https://admin.myazstore.shop
 <p align="center" ">
   <img
   src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770628702/Screenshot_20260209-144531_hgvuqn.png"
-  alt="AdminDash Mobile View"  border="2px solid black
+  alt="AdminDash Mobile View"  border="2px solid black"
   width="32%"
 /><img
   src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770628702/Screenshot_20260209-144541_dggscm.png"
-  alt="AdminDash Mobile View" border="2px solid black
+  alt="AdminDash Mobile View" border="2px solid black"
   width="32%"
 /><img
   src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770628702/Screenshot_20260209-144617_dhmhjk.png"
-  alt="AdminDash Mobile View" border="2px solid black
+  alt="AdminDash Mobile View" border="2px solid black"
   width="32%"
 />
 </p>
