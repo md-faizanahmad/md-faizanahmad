@@ -43,20 +43,17 @@
 
   <article>
     <h3>MyAZStore — Full-Stack E-commerce Platform</h3>
-
     <p>
       <strong>Live Shop:</strong>
       <a href="https://myazstore.shop" target="_blank">myazstore.shop</a><br />
       <strong>Admin Panel:</strong>
       <a href="https://admin.myazstore.shop" target="_blank">admin.myazstore.shop</a>
     </p>
-
     <img
       src="https://res.cloudinary.com/daqb5wglu/image/upload/v1766169968/ShopUI_evspte.png"
       alt="MyAZStore homepage showing product grid, navigation, and shopping interface"
       width="100%"
     />
-
     <h4>Key Contributions</h4>
     <ul>
       <li>Built complete cart, checkout, and authentication flow</li>
@@ -66,7 +63,6 @@
       <li>Created role-based admin dashboard (products, orders, analytics)</li>
       <li>Enabled Google-based multi-factor authentication for admin</li>
     </ul>
-
     <p>
       <strong>Stack:</strong>
       React • TypeScript • Zustand • Node.js • MongoDB • Razorpay • Vercel
@@ -79,20 +75,17 @@
 
   <article>
     <h3>Luman Studio — Interactive Storytelling Experience</h3>
-
     <p>
       <strong>Live:</strong>
       <a href="https://luman-studio.vercel.app" target="_blank">
         luman-studio.vercel.app
       </a>
     </p>
-
     <img
       src="https://res.cloudinary.com/daqb5wglu/image/upload/v1768824851/luman-stdio_cctkn5.png"
       alt="Luman Studio homepage featuring scroll-driven storytelling layout and animated UI"
       width="100%"
     />
-
     <h4>Key Contributions</h4>
     <ul>
       <li>Implemented scroll-based animation system using Framer Motion</li>
@@ -100,7 +93,6 @@
       <li>Optimized performance with Next.js server components</li>
       <li>Designed responsive layout with mobile-first approach</li>
     </ul>
-
     <p>
       <strong>Stack:</strong>
       Next.js • TypeScript • Tailwind CSS • Framer Motion
@@ -113,20 +105,17 @@
 
   <article>
     <h3>Luman Hotel — Modern Booking Interface</h3>
-
     <p>
       <strong>Live:</strong>
       <a href="https://luman-hotel.vercel.app" target="_blank">
         luman-hotel.vercel.app
       </a>
     </p>
-
     <img
       src="https://res.cloudinary.com/daqb5wglu/image/upload/v1768824858/luman-hotel1_v5vv6v.png"
       alt="Luxury hotel booking interface with room selection and reservation details"
       width="100%"
     />
-
     <h4>Key Contributions</h4>
     <ul>
       <li>Built step-based booking system with validation logic</li>
@@ -134,7 +123,6 @@
       <li>Created serverless API route for booking confirmation email</li>
       <li>Designed mobile-first responsive UI</li>
     </ul>
-
     <p>
       <strong>Stack:</strong>
       Next.js • TypeScript • Tailwind CSS • Node.js (Serverless)
@@ -147,20 +135,17 @@
 
   <article>
     <h3>School Website — SEO & Admission-Focused Platform</h3>
-
     <p>
       <strong>Live:</strong>
       <a href="https://school-demo-sepia.vercel.app" target="_blank">
         school-demo-sepia.vercel.app
       </a>
     </p>
-
     <img
       src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770280034/Header_yt9bly.png"
       alt="School website homepage with navigation, hero section, and admission call to action"
       width="100%"
     />
-
     <h4>Key Contributions</h4>
     <ul>
       <li>Fully server-rendered Next.js architecture</li>
