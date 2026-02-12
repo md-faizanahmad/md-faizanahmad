@@ -63,19 +63,16 @@
   <!-- MyAZStore -->
   <article>
     <h3>🛒 MyAZStore — Full-Stack E-commerce Platform</h3>
-
     <p>
       <strong>Live:</strong>
       <a href="https://myazstore.shop" target="_blank">Shop</a> |
       <a href="https://admin.myazstore.shop" target="_blank">Admin Panel</a>
     </p>
-
     <img
       src="https://res.cloudinary.com/daqb5wglu/image/upload/v1766169968/ShopUI_evspte.png"
       alt="E-commerce homepage with product listing and cart functionality"
       width="100%"
     />
-
     <ul>
       <li>JWT authentication with HttpOnly cookies</li>
       <li>Google Multi-Factor Authentication for admin</li>
@@ -83,7 +80,6 @@
       <li>Automated PDF invoice generation</li>
       <li>Role-based admin dashboard</li>
     </ul>
-
     <p><strong>Stack:</strong> React • TypeScript • Node.js • MongoDB • Zustand • Vercel</p>
   </article>
 
@@ -92,23 +88,19 @@
   <!-- Luman Studio -->
   <article>
     <h3>🎨 Luman Studio — Interactive Storytelling UI</h3>
-
     <p>
       <a href="https://luman-studio.vercel.app" target="_blank">Live Demo</a>
     </p>
-
     <img
       src="https://res.cloudinary.com/daqb5wglu/image/upload/v1768824851/luman-stdio_cctkn5.png"
       alt="Animated storytelling UI with scroll-based interaction"
       width="100%"
     />
-
     <ul>
       <li>Advanced Framer Motion animations</li>
       <li>Scroll-driven transitions and parallax effects</li>
       <li>Next.js performance optimization</li>
     </ul>
-
     <p><strong>Stack:</strong> Next.js • TypeScript • Tailwind CSS • Framer Motion</p>
   </article>
 
@@ -117,23 +109,19 @@
   <!-- Luman Hotel -->
   <article>
     <h3>🏨 Luman Hotel — Booking Experience</h3>
-
     <p>
       <a href="https://luman-hotel.vercel.app" target="_blank">Live Demo</a>
     </p>
-
     <img
       src="https://res.cloudinary.com/daqb5wglu/image/upload/v1768824858/luman-hotel1_v5vv6v.png"
       alt="Hotel booking interface with dynamic pricing"
       width="100%"
     />
-
     <ul>
       <li>Step-based booking system</li>
       <li>Dynamic GST calculation logic</li>
       <li>Serverless booking confirmation email system</li>
     </ul>
-
     <p><strong>Stack:</strong> Next.js • TypeScript • Tailwind CSS</p>
   </article>
 
