@@ -1,34 +1,201 @@
-<h1 align="center">Hi 👋, I'm Md Faizan Ahmad</h1>
-<h3 align="center">React Frontend Developer | React • Next.js • TypeScript • Modern Responsive UI</h3>
+<!-- ================= HERO BANNER ================= -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-faizanahmad&label=Profile%20views&color=0e75b6&style=flat" alt="md-faizanahmad" /> </p>
+<header align="center">
+  <img
+    src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770905225/Black_and_Blue_Modern_Video_Editor_LinkedIn_Banner_tvsemn.png"
+    alt="Md Faizan Ahmad Professional Banner"
+    width="100%"
+  />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-faizanahmad" alt="md-faizanahmad" /></a> </p>
+  <h1>Hi 👋, I'm Md Faizan Ahmad</h1>
 
-- 🔭 I’m currently working on [MyStore](myazstore.shop)
+  <h3>
+    React Frontend Developer |
+    React • Next.js • TypeScript • Modern Responsive UI
+  </h3>
 
-- 🌱 I’m currently learning **Next**
+  <p>
+    I build scalable, production-ready web applications
+    with performance-focused architecture and clean UI systems.
+  </p>
 
-- 👨‍💻 All of my projects are available at [mdfaizanahmad.vercel.app](mdfaizanahmad.vercel.app)
+  <p>
+    🌐 <a href="https://mdfaizanahmad.vercel.app" target="_blank">Portfolio</a> |
+    💼 <a href="https://linkedin.com/in/mdfaizandahmad" target="_blank">LinkedIn</a> |
+    📧 <a href="mailto:md.faizan.ahmad.web@gmail.com">Email</a>
+  </p>
 
-- 📫 How to reach me **md.faizan.ahmad.web@gmail.com**
+  <img
+    src="https://komarev.com/ghpvc/?username=md-faizanahmad&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views counter"
+  />
+</header>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/md-faizan-ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/md-faizan-ahmad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mdfaizandahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdfaizandahmad" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/32356592/md-faizan-ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/32356592/md-faizan-ahmad" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ahmad_web_dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ahmad_web_dev/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/mdfaizanahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/mdfaizanahmad" height="30" width="40" /></a>
-<a href="https://medium.com/md.faizan.ahmad.web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="md.faizan.ahmad.web" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@tech_x_craft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@tech_x_craft" height="30" width="40" /></a>
-</p>
+<hr />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<!-- ================= ABOUT ================= -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-faizanahmad&show_icons=true&locale=en&layout=compact" alt="md-faizanahmad" /></p>
+<section>
+  <h2>About Me</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-faizanahmad&show_icons=true&locale=en" alt="md-faizanahmad" /></p>
+  <p>
+    Frontend Developer with 2+ years of hands-on experience building
+    production-ready applications using React and Next.js.
+  </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-faizanahmad&" alt="md-faizanahmad" /></p>
+  <ul>
+    <li>Design scalable component-based architectures in React</li>
+    <li>Build applications using TypeScript and modern JavaScript (ES6+)</li>
+    <li>Integrate REST APIs and manage real-time UI state</li>
+    <li>Implement state management using Zustand and Redux Toolkit</li>
+    <li>Optimize performance for mobile-first and low-end devices</li>
+    <li>Deploy applications using Vercel and cloud platforms</li>
+  </ul>
+</section>
+
+<hr />
+
+<!-- ================= FEATURED PROJECTS ================= -->
+
+<section>
+  <h2>🚀 Featured Projects</h2>
+
+  <!-- MyAZStore -->
+  <article>
+    <h3>🛒 MyAZStore — Full-Stack E-commerce Platform</h3>
+
+    <p>
+      <strong>Live:</strong>
+      <a href="https://myazstore.shop" target="_blank">Shop</a> |
+      <a href="https://admin.myazstore.shop" target="_blank">Admin Panel</a>
+    </p>
+
+    <img
+      src="https://res.cloudinary.com/daqb5wglu/image/upload/v1766169968/ShopUI_evspte.png"
+      alt="E-commerce homepage with product listing and cart functionality"
+      width="100%"
+    />
+
+    <ul>
+      <li>JWT authentication with HttpOnly cookies</li>
+      <li>Google Multi-Factor Authentication for admin</li>
+      <li>Razorpay payment integration</li>
+      <li>Automated PDF invoice generation</li>
+      <li>Role-based admin dashboard</li>
+    </ul>
+
+    <p><strong>Stack:</strong> React • TypeScript • Node.js • MongoDB • Zustand • Vercel</p>
+  </article>
+
+  <hr />
+
+  <!-- Luman Studio -->
+  <article>
+    <h3>🎨 Luman Studio — Interactive Storytelling UI</h3>
+
+    <p>
+      <a href="https://luman-studio.vercel.app" target="_blank">Live Demo</a>
+    </p>
+
+    <img
+      src="https://res.cloudinary.com/daqb5wglu/image/upload/v1768824851/luman-stdio_cctkn5.png"
+      alt="Animated storytelling UI with scroll-based interaction"
+      width="100%"
+    />
+
+    <ul>
+      <li>Advanced Framer Motion animations</li>
+      <li>Scroll-driven transitions and parallax effects</li>
+      <li>Next.js performance optimization</li>
+    </ul>
+
+    <p><strong>Stack:</strong> Next.js • TypeScript • Tailwind CSS • Framer Motion</p>
+  </article>
+
+  <hr />
+
+  <!-- Luman Hotel -->
+  <article>
+    <h3>🏨 Luman Hotel — Booking Experience</h3>
+
+    <p>
+      <a href="https://luman-hotel.vercel.app" target="_blank">Live Demo</a>
+    </p>
+
+    <img
+      src="https://res.cloudinary.com/daqb5wglu/image/upload/v1768824858/luman-hotel1_v5vv6v.png"
+      alt="Hotel booking interface with dynamic pricing"
+      width="100%"
+    />
+
+    <ul>
+      <li>Step-based booking system</li>
+      <li>Dynamic GST calculation logic</li>
+      <li>Serverless booking confirmation email system</li>
+    </ul>
+
+    <p><strong>Stack:</strong> Next.js • TypeScript • Tailwind CSS</p>
+  </article>
+
+</section>
+
+<hr />
+
+<!-- ================= TECH STACK ================= -->
+
+<section>
+  <h2>💻 Tech Stack</h2>
+
+  <p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" alt="Next.js"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git"/>
+  </p>
+</section>
+
+<hr />
+
+<!-- ================= GITHUB STATS ================= -->
+
+<section>
+  <h2>📊 GitHub Statistics</h2>
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=md-faizanahmad&show_icons=true&theme=tokyonight&hide_border=true"
+    width="48%"
+    alt="GitHub stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-faizanahmad&layout=compact&theme=tokyonight&hide_border=true"
+    width="48%"
+    alt="Top languages"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://streak-stats.demolab.com?user=md-faizanahmad&theme=tokyonight&hide_border=true"
+    width="70%"
+    alt="GitHub streak"
+  />
+</section>
+
+<hr />
+
+<!-- ================= CAREER GOAL ================= -->
+
+<section>
+  <h2>🎯 Career Goal</h2>
+
+  <p>
+    Seeking a Frontend Developer role in a product-focused team where I can
+    contribute to scalable UI systems, performance-driven applications,
+    and real-world problem solving.
+  </p>
+</section>
