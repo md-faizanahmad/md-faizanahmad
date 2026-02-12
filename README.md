@@ -31,15 +31,23 @@
 <!-- ================= PROFESSIONAL SUMMARY ================= -->
 
 <section>
-  <h2>Professional Focus</h2>
+  <h2>About Me</h2>
+
+  <p>
+    Frontend Developer with 2+ years of hands-on experience building
+    production-ready web applications using React and Next.js.
+  </p>
+
   <ul>
-    <li>Modern Web Application Development</li>
-    <li>Frontend Architecture & Performance Optimization</li>
-    <li>REST API Integration & Full-Stack Features</li>
-    <li>Mobile-First Responsive UI Design</li>
-    <li>Scalable Component-Based Systems</li>
+    <li>Design and develop scalable component-based architectures in React</li>
+    <li>Build applications using TypeScript and modern JavaScript (ES6+)</li>
+    <li>Integrate REST APIs and handle real-time data-driven interfaces</li>
+    <li>Implement state management using Zustand and Redux Toolkit</li>
+    <li>Optimize performance for mobile-first and low-end devices</li>
+    <li>Deploy and manage applications using Vercel and cloud platforms</li>
   </ul>
 </section>
+
 
 <hr />
 
