@@ -1,7 +1,12 @@
 <!-- ================= HERO SECTION ================= -->
 
 <header>
-  <img src"https://res.cloudinary.com/dyefyrszz/image/upload/v1770905225/Black_and_Blue_Modern_Video_Editor_LinkedIn_Banner_tvsemn.png" width="100%" />
+  <img src"" width="100%" />
+  <img
+      src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770905225/Black_and_Blue_Modern_Video_Editor_LinkedIn_Banner_tvsemn.png"
+      alt="Header_Img"
+      width="100%"
+    />
   <h1>Md Faizan Ahmad</h1>
   <p>
     <strong>Frontend Engineer</strong> —
