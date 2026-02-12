@@ -7,11 +7,11 @@
     width="100%"
   />
 
-  <h1>Hello, I'm Md Faizan Ahmad 👋</h1>
+  <h1 text-align="center">Hello, I'm Md Faizan Ahmad 👋</h1>
 
   <p>
-    <strong>Full Stack Web Developer</strong> |
-    React • Next.js • TypeScript • UI Architecture • API Integration
+ <strong> React Frontend Developer </strong> |
+    React • Next.js • TypeScript • Modern Responsive UI
   </p>
 
   <p>
