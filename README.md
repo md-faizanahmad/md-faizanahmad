@@ -46,6 +46,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git"/>
     <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" width="40" alt="Postman" />
+    <img src="https://www.gstatic.com/devrel-devsite/prod/v4d7086213de4a88af46437fe81d3213e3e0b7f024ec300b3813c1a681a622c28/chrome/images/lockup.svg" width="40" alt="chrome-devtool" />
       
   </p>
 </section>
