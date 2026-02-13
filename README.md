@@ -34,14 +34,19 @@
   <h2>💻 Tech Stack</h2>
 
   <p align="left">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/330px-HTML5_logo_and_wordmark.svg.png" width="40" alt="HTML5" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/250px-Official_CSS_Logo.svg.png" width="40" alt="CSS3" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React"/>
     <img src="https://vercel.com/vc-ap-vercel-marketing/_next/static/media/next-js-dark.04784322.svg?dpl=dpl_5Pe6NfvzZ9ow7KXmMVDAL2dajyas&dpl=dpl_5Pe6NfvzZ9ow7KXmMVDAL2dajyas" width="40" alt="Next.js"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/330px-HTML5_logo_and_wordmark.svg.png" width="40" alt="HTML5" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/250px-Official_CSS_Logo.svg.png" width="40" alt="CSS3" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/500px-Bootstrap_logo.svg.png" width="40" alt="Bootstrap"/>
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS"/>
+     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+    
+
+    
+   
+    <img src="https://camo.githubusercontent.com/8302eeffde25df874a2e397339740b108239011253cef7be5517b0656f186c2c/68747470733a2f2f6178696f732d687474702e636f6d2f6173736574732f6c6f676f2e737667" width="40" alt="Axios" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git"/>
