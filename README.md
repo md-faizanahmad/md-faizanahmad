@@ -42,17 +42,14 @@
      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-    
-
-    
-   
     <img src="https://camo.githubusercontent.com/8302eeffde25df874a2e397339740b108239011253cef7be5517b0656f186c2c/68747470733a2f2f6178696f732d687474702e636f6d2f6173736574732f6c6f676f2e737667" width="40" alt="Axios" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git"/>
     <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" width="40" alt="Postman" />
     <img src="https://www.gstatic.com/devrel-devsite/prod/v4d7086213de4a88af46437fe81d3213e3e0b7f024ec300b3813c1a681a622c28/chrome/images/lockup.svg" width="100" alt="chrome-devtool" />
-      
+         <img src="https://www.gstatic.com/mobilesdk/240501_mobilesdk/firebase_28dp.png" width="40" alt="Firebase-Console" />
+         <img src"https://camo.githubusercontent.com/7f7feac5aa52f9a8d0ee29d408f8cc3b5ae8d1c3d3025830e996248ea4945d7d/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" width="40" alt="Vercel"
   </p>
 </section>
 </header>
