@@ -50,7 +50,7 @@
     <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" width="40" alt="Postman" />
     <img src="https://www.gstatic.com/devrel-devsite/prod/v4d7086213de4a88af46437fe81d3213e3e0b7f024ec300b3813c1a681a622c28/chrome/images/lockup.svg" width="100" alt="chrome-devtool" />
          <img src="https://www.gstatic.com/mobilesdk/240501_mobilesdk/firebase_28dp.png" width="40" alt="Firebase-Console" />
-         <img src"https://camo.githubusercontent.com/7f7feac5aa52f9a8d0ee29d408f8cc3b5ae8d1c3d3025830e996248ea4945d7d/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" width="40" alt="Vercel"
+         <img src"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vercel_logo_2025.svg/1920px-Vercel_logo_2025.svg.png" width="40" alt="Vercel"
   </p>
 </section>
 </header>
