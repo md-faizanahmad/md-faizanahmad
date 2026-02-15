@@ -51,8 +51,8 @@
     <img src="https://www.gstatic.com/devrel-devsite/prod/v4d7086213de4a88af46437fe81d3213e3e0b7f024ec300b3813c1a681a622c28/chrome/images/lockup.svg" width="100" alt="chrome-devtool" />
          <img src="https://www.gstatic.com/mobilesdk/240501_mobilesdk/firebase_28dp.png" width="40" alt="Firebase-Console" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vercel_logo_2025.svg/1920px-Vercel_logo_2025.svg.png"
-width="40" alt=Vercel" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vercel_logo_2025.svg/1920px-Vercel_logo_2025.svg.png" width="40" alt="Vercel" />
+
 
     
   </p>
