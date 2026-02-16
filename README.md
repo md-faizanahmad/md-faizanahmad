@@ -101,6 +101,7 @@
       alt="E-commerce homepage with product listing and cart functionality"
       width="100%"
     />
+    <img src="https://res.cloudinary.com/daqb5wglu/image/upload/v1766866025/AdminDash_hgfg18.png" alt="E-commerce Admin Dashboard" width="100%" />
     <ul>
       <li>JWT authentication with HttpOnly cookies</li>
       <li>Google Multi-Factor Authentication for admin</li>
