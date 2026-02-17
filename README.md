@@ -154,16 +154,28 @@
     <p><strong>Stack:</strong> Next.js • TypeScript • Tailwind CSS</p>
   </article>
 
+<!--- School Website -->
+
 <article>
   <h3>🏫 School Management & Admission Website — Demo</h3>
   <p>
     <a href="https://school-demo-sepia.vercel.app" target="_blank">Live Demo</a>
   </p>
   <img
-    src="https://res.cloudinary.com/daqb5wglu/image/upload/v1768824858/school-demo-preview.png"
+    src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770280034/Header_yt9bly.png"
+    alt="School website homepage with admission enquiry system"
+    width="100%"
+  />   <img
+    src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770280031/Header_Footer_urdu8u.png"
+    alt="School website homepage with admission enquiry system"
+    width="100%"
+  /> <img
+    src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770280034/desktop_abgwcu.png"
     alt="School website homepage with admission enquiry system"
     width="100%"
   />
+
+ 
   <ul>
     <li>Online Admission Enquiry System (Parent + Admin Email Notification)</li>
     <li>Enquiry data stored directly in Google Sheets</li>
