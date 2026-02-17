@@ -196,11 +196,8 @@
 <section>
   <h2>📊 GitHub Statistics</h2>
 
-  <img
-  src="https://github-readme-stats.vercel.app/api?username=md-faizanahmad&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-  width="48%"
-  alt="GitHub stats"
-/>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=md-faizanahmad&show_icons=true&theme=tokyonight)
+
 
 
   <img
