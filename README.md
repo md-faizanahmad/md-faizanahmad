@@ -195,13 +195,10 @@
 
 <section>
   <h2>📊 GitHub Statistics</h2>
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=md-faizanahmad&show_icons=true&theme=tokyonight)
-
-
+   ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=md-faizanahmad&show_icons=true&theme=tokyonight)
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-faizanahmad&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=md-faizanahmad&layout=compact&theme=tokyonight&hide_border=true"
     width="48%"
     alt="Top languages"
   />
