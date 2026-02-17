@@ -197,10 +197,11 @@
   <h2>📊 GitHub Statistics</h2>
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=md-faizanahmad&show_icons=true&theme=tokyonight&hide_border=true"
-    width="48%"
-    alt="GitHub stats"
-  />
+  src="https://github-readme-stats.vercel.app/api?username=md-faizanahmad&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+  width="48%"
+  alt="GitHub stats"
+/>
+
 
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-faizanahmad&layout=compact&theme=tokyonight&hide_border=true"
