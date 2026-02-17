@@ -194,7 +194,8 @@
 <!-- ================= GITHUB STATS ================= -->
 
 <section>
-  <h2>📊 GitHub Statistics</h2>
+  <h2>📊 GitHub Statistics</h2
+                           
    ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=md-faizanahmad&show_icons=true&theme=tokyonight)
 
   <img
@@ -203,7 +204,7 @@
     alt="Top languages"
   />
 
-  <br/><br/>
+  <br/>
 
   <img
     src="https://streak-stats.demolab.com?user=md-faizanahmad&theme=tokyonight&hide_border=true"
