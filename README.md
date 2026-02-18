@@ -25,6 +25,12 @@
     📧 <a href="mailto:md.faizan.ahmad.web@gmail.com">Email</a>
   </p>
 
+<h4>Project Live Links</h4>
+  <p>
+    🌐 <a href="myazstore.shop" target="_blank">MyAZStore</a> |
+    🌐 <a href="luman-studio.vercel.app" target="_blank">Luman Studio</a> |
+    🌐 <a href="luman-hotel.vercel.app">Luman Hotel</a>
+  </p>
   <img
     src="https://komarev.com/ghpvc/?username=md-faizanahmad&label=Profile%20views&color=0e75b6&style=flat"
     alt="Profile views counter"
