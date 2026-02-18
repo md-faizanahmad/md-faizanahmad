@@ -30,6 +30,8 @@
     🌐 <a href="myazstore.shop" target="_blank">MyAZStore</a> |
     🌐 <a href="luman-studio.vercel.app" target="_blank">Luman Studio</a> |
     🌐 <a href="luman-hotel.vercel.app">Luman Hotel</a>
+    🌐 <a href="https://essentialcalc.com/">Essential Tools,Blog</a>
+    
   </p>
   <img
     src="https://komarev.com/ghpvc/?username=md-faizanahmad&label=Profile%20views&color=0e75b6&style=flat"
