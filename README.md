@@ -95,7 +95,7 @@
       <strong>Live:</strong>
       <a href="https://myazstore.shop" target="_blank">Shop</a> |
       <a href="https://github.com/md-faizanahmad/MyShop" target="_blank" >MyAZ Store Repo </a>
-      <a href="https://admin.myazstore.shop" target="_blank">Admin Panel</a>
+      <!-- <a href="https://admin.myazstore.shop" target="_blank">Admin Panel</a> -->
     </p>
     <img
       src="https://res.cloudinary.com/daqb5wglu/image/upload/v1766169968/ShopUI_evspte.png"
