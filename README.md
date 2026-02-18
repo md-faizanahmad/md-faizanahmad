@@ -94,6 +94,7 @@
     <p>
       <strong>Live:</strong>
       <a href="https://myazstore.shop" target="_blank">Shop</a> |
+      <a href="https://github.com/md-faizanahmad/MyShop" target="_blank" >MyAZ Store Repo </a>
       <a href="https://admin.myazstore.shop" target="_blank">Admin Panel</a>
     </p>
     <img
@@ -107,7 +108,6 @@
       <li>Google Multi-Factor Authentication for admin</li>
       <li>Razorpay payment integration</li>
       <li>Automated PDF invoice generation</li>
-      <li>Role-based admin dashboard</li>
     </ul>
     <p><strong>Stack:</strong> React • TypeScript • Node.js • MongoDB • Zustand • Vercel</p>
   </article>
