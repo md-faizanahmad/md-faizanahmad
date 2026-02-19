@@ -128,6 +128,8 @@
     <h3>🎨 Luman Studio — Interactive Storytelling UI</h3>
     <p>
       <a href="https://luman-studio.vercel.app" target="_blank">Live Demo</a>
+          <a href="https://github.com/md-faizanahmad/furniture-shop" target="_blank">Repo</a>
+      
     </p>
     <img
       src="https://res.cloudinary.com/daqb5wglu/image/upload/v1768824851/luman-stdio_cctkn5.png"
