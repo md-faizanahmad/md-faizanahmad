@@ -129,7 +129,6 @@
     <p>
       <a href="https://luman-studio.vercel.app" target="_blank">Live Demo</a>
           <!-- <a href="https://github.com/md-faizanahmad/furniture-shop" target="_blank">Repo</a> -->
-      
     </p>
     <img
       src="https://res.cloudinary.com/daqb5wglu/image/upload/v1768824851/luman-stdio_cctkn5.png"
@@ -151,7 +150,7 @@
     <h3>🏨 Luman Hotel — Booking Experience</h3>
     <p>
       <a href="https://luman-hotel.vercel.app" target="_blank">Live Demo</a>
-      <a href="https://github.com/md-faizanahmad/luman-hotel" target="_blank">Repo </a>
+      <!-- <a href="https://github.com/md-faizanahmad/luman-hotel" target="_blank">Repo </a> -->
     </p>
     <img
       src="https://res.cloudinary.com/daqb5wglu/image/upload/v1768824858/luman-hotel1_v5vv6v.png"
