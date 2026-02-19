@@ -103,7 +103,7 @@
     <p>
       <strong>Live:</strong>
       <a href="https://myazstore.shop" target="_blank">Shop</a> |
-      <a href="https://github.com/md-faizanahmad/MyShop" target="_blank" >MyAZ Store Repo </a>
+      <!-- <a href="https://github.com/md-faizanahmad/MyShop" target="_blank" >MyAZ Store Repo </a> -->
       <!-- <a href="https://admin.myazstore.shop" target="_blank">Admin Panel</a> -->
     </p>
     <img
