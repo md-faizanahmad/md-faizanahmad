@@ -30,7 +30,7 @@
     🌐 <a href="https://myazstore.shop" target="_blank">MyAZStore</a> |
     🪑 <a href="https://luman-studio.vercel.app" target="_blank">Luman Studio</a> |
     🏨 <a href="https://luman-hotel.vercel.app">Luman Hotel</a>
-    🌐 <a href=" https://school-demo-sepia.vercel.app/">School</a>
+    🏫 <a href=" https://school-demo-sepia.vercel.app/">School</a>
     🌐 <a href="https://essentialcalc.com/">Essential Tools,Blog</a>
     
   </p>
