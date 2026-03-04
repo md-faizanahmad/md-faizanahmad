@@ -11,7 +11,7 @@
 
   <h3>
     React Frontend Developer |
-    React • Next.js • TypeScript • Modern Responsive UI & Mobile First Design 
+    React • Next.js • JavaScript • Modern Responsive UI & Mobile First Design 
   </h3>
 
   <p>
