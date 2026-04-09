@@ -131,7 +131,7 @@
           <!-- <a href="https://github.com/md-faizanahmad/furniture-shop" target="_blank">Repo</a> -->
     </p>
     <img
-      src="https://res.cloudinary.com/daqb5wglu/image/upload/v1768824851/luman-stdio_cctkn5.png"
+      src="https://res.cloudinary.com/dyefyrszz/image/upload/v1775581928/luman-stdio_cctkn5_guenon.png"
       alt="Animated storytelling UI with scroll-based interaction"
       width="100%"
     />
@@ -153,7 +153,7 @@
       <!-- <a href="https://github.com/md-faizanahmad/luman-hotel" target="_blank">Repo </a> -->
     </p>
     <img
-      src="https://res.cloudinary.com/daqb5wglu/image/upload/v1768824858/luman-hotel1_v5vv6v.png"
+      src="https://res.cloudinary.com/dyefyrszz/image/upload/v1775581930/luman-hotel1_v5vv6v_ieo7bn.png"
       alt="Hotel booking interface with dynamic pricing"
       width="100%"
     />
