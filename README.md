@@ -7,8 +7,8 @@
     width="100%"
   />
 
-  <h1> Assalamualaikum ~Hello~ 👋, I'm Md Faizan Ahmad</h1>
-
+  <h1>Hello 👋, I'm Md Faizan Ahmad</h1>
+<!-- Assalamualaikum -->
   <h3>
     React Frontend Developer |
     React • Next.js • JavaScript • Modern Responsive UI & Mobile First Design 
