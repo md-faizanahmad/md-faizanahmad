@@ -44,7 +44,7 @@
 
   <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React"/>
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" alt="Next" />
     <img src="https://vercel.com/vc-ap-vercel-marketing/_next/static/media/next-js-dark.04784322.svg?dpl=dpl_5Pe6NfvzZ9ow7KXmMVDAL2dajyas&dpl=dpl_5Pe6NfvzZ9ow7KXmMVDAL2dajyas" width="40" alt="Next.js"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/330px-HTML5_logo_and_wordmark.svg.png" width="40" alt="HTML5" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/250px-Official_CSS_Logo.svg.png" width="40" alt="CSS3" />
