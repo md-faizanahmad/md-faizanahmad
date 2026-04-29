@@ -11,7 +11,7 @@
 <!-- Assalamualaikum -->
   <h3>
     React Frontend Developer | Full Stack Developer
-    React • Next.js • JavaScript • Modern Responsive UI & Mobile First Design 
+    React • Next.js • JavaScript • TypeScript • Modern Responsive UI & Mobile First Design 
   </h3>
 
   <p>
