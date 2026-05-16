@@ -10,7 +10,7 @@
   <h1>Hello 👋, I'm Md Faizan Ahmad</h1>
 <!-- Assalamualaikum -->
   <h3>
-    React Frontend Developer | Full Stack Developer
+    React Developer | Full Stack Developer
      
   </h3>
 
