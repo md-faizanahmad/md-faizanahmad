@@ -106,24 +106,14 @@
       <!-- <a href="https://github.com/md-faizanahmad/MyShop" target="_blank" >MyAZ Store Repo </a> -->
       <!-- <a href="https://admin.myazstore.shop" target="_blank">Admin Panel</a> -->
     </p>
-    <!-- <img
+    <div >
+    <img
       src="https://res.cloudinary.com/daqb5wglu/image/upload/v1766169968/ShopUI_evspte.png"
       alt="E-commerce homepage with product listing and cart functionality"
-      width="100%"
+      width="50%"
     />
-    <img src="https://res.cloudinary.com/dyefyrszz/image/upload/v1775581914/AdminDash_hgfg18_obsmve.png" alt="E-commerce Admin Dashboard" width="100%" /> -->
-    <p align="center">
-  <img
-    src="shop.png"
-    width="49%"
-    alt="Storefront"
-  />
-  <img
-    src="admin.png"
-    width="49%"
-    alt="Admin Dashboard"
-  />
-</p>
+    <img src="https://res.cloudinary.com/dyefyrszz/image/upload/v1775581914/AdminDash_hgfg18_obsmve.png" alt="E-commerce Admin Dashboard" width="50%" />
+</div>
     <ul>
       <li>JWT authentication with HttpOnly cookies</li>
       <li>Google Multi-Factor Authentication for admin</li>
