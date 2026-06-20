@@ -104,24 +104,18 @@
       <a href="https://myazstore.shop" target="_blank">Shop</a> |
       <!-- <a href="https://github.com/md-faizanahmad/MyShop" target="_blank" >MyAZ Store Repo </a> -->
       <!-- <a href="https://admin.myazstore.shop" target="_blank">Admin Panel</a> -->
-    </p>
-    <table>
-<tr>
-<td width="50%">
-<img
-  src="https://res.cloudinary.com/daqb5wglu/image/upload/v1766169968/ShopUI_evspte.png"
-  alt="Storefront"
-/>
-</td>
-
-<td width="50%">
-<img
-  src="https://res.cloudinary.com/dyefyrszz/image/upload/v1775581914/AdminDash_hgfg18_obsmve.png"
-  alt="Admin Dashboard"
-/>
-</td>
-</tr>
-</table>
+    </p><p align="center">
+  <img
+    src="https://res.cloudinary.com/daqb5wglu/image/upload/v1766169968/ShopUI_evspte.png"
+    alt="Storefront"
+    width="49%"
+  />
+  <img
+    src="https://res.cloudinary.com/dyefyrszz/image/upload/v1775581914/AdminDash_hgfg18_obsmve.png"
+    alt="Admin Dashboard"
+    width="49%"
+  />
+</p>
     <ul>
       <li>JWT authentication with HttpOnly cookies</li>
       <li>Google Multi-Factor Authentication for admin</li>
