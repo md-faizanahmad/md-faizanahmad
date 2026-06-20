@@ -44,19 +44,19 @@
   <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React"/>
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" alt="Next" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/330px-HTML5_logo_and_wordmark.svg.png" width="40" alt="HTML5" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/250px-Official_CSS_Logo.svg.png" width="40" alt="CSS3" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/500px-Bootstrap_logo.svg.png" width="40" alt="Bootstrap"/>
+    <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/330px-HTML5_logo_and_wordmark.svg.png" width="40" alt="HTML5" /> -->
+    <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/250px-Official_CSS_Logo.svg.png" width="40" alt="CSS3" /> -->
+    <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/500px-Bootstrap_logo.svg.png" width="40" alt="Bootstrap"/> -->
      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-    <img src="https://camo.githubusercontent.com/c11f7ea3562755c1f38c4f21228c71772b6eb34365ee97802fe17028cee29ffc/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" width="40" alt="express-js" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" width="40" alt="Axios" />
+    <!-- <img src="https://camo.githubusercontent.com/c11f7ea3562755c1f38c4f21228c71772b6eb34365ee97802fe17028cee29ffc/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" width="40" alt="express-js" /> -->
+            <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" width="40" alt="Axios" /> -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git"/>
-    <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" width="40" alt="Postman" />
-    <img src="https://www.gstatic.com/devrel-devsite/prod/v4d7086213de4a88af46437fe81d3213e3e0b7f024ec300b3813c1a681a622c28/chrome/images/lockup.svg" width="100" alt="chrome-devtool" />
+    <!-- <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" width="40" alt="Postman" /> -->
+    <!-- <img src="https://www.gstatic.com/devrel-devsite/prod/v4d7086213de4a88af46437fe81d3213e3e0b7f024ec300b3813c1a681a622c28/chrome/images/lockup.svg" width="100" alt="chrome-devtool" /> -->
          <img src="https://www.gstatic.com/mobilesdk/240501_mobilesdk/firebase_28dp.png" width="40" alt="Firebase-Console" />
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vercel_logo_2025.svg/1920px-Vercel_logo_2025.svg.png" width="40" alt="Vercel" />
