@@ -74,7 +74,6 @@
 
 <section>
   <h2>About Me</h2>
-
   <p>
     Frontend Developer with 2+ years of hands-on experience building
     production-ready applications using React and Next.js.
@@ -106,14 +105,23 @@
       <!-- <a href="https://github.com/md-faizanahmad/MyShop" target="_blank" >MyAZ Store Repo </a> -->
       <!-- <a href="https://admin.myazstore.shop" target="_blank">Admin Panel</a> -->
     </p>
-    <div >
-    <img
-      src="https://res.cloudinary.com/daqb5wglu/image/upload/v1766169968/ShopUI_evspte.png"
-      alt="E-commerce homepage with product listing and cart functionality"
-      width="50%"
-    />
-    <img src="https://res.cloudinary.com/dyefyrszz/image/upload/v1775581914/AdminDash_hgfg18_obsmve.png" alt="E-commerce Admin Dashboard" width="50%" />
-</div>
+    <table>
+<tr>
+<td width="50%">
+<img
+  src="https://res.cloudinary.com/daqb5wglu/image/upload/v1766169968/ShopUI_evspte.png"
+  alt="Storefront"
+/>
+</td>
+
+<td width="50%">
+<img
+  src="https://res.cloudinary.com/dyefyrszz/image/upload/v1775581914/AdminDash_hgfg18_obsmve.png"
+  alt="Admin Dashboard"
+/>
+</td>
+</tr>
+</table>
     <ul>
       <li>JWT authentication with HttpOnly cookies</li>
       <li>Google Multi-Factor Authentication for admin</li>
