@@ -137,7 +137,7 @@ I focus on writing clean, maintainable code, building reusable components, integ
     <img
       src="https://res.cloudinary.com/dyefyrszz/image/upload/v1775581928/luman-stdio_cctkn5_guenon.png"
       alt="Animated storytelling UI with scroll-based interaction"
-      width="100%"
+      width="49%"
     />
     <ul>
       <li>Advanced Framer Motion animations</li>
