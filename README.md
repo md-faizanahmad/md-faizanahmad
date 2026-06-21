@@ -14,8 +14,9 @@
   </h3>
 
   <p>
-    I build scalable, production-ready web applications
-    with performance-focused architecture and clean UI systems.
+    I enjoy building web applications that solve real problems and provide a smooth user experience.
+    Over the past 2+ years, I've worked with React, Next.js, TypeScript, Node.js, Express, and MongoDB to create projects ranging from e-commerce platforms and admin   dashboards to authentication systems and business applications.
+I focus on writing clean, maintainable code, building reusable components, integrating APIs, and improving performance. Most of my work revolves around turning ideas into responsive, production-ready applications that are fast, scalable, and easy to use.
   </p>
 
   <p>
@@ -71,7 +72,7 @@
 
 <!-- ================= ABOUT ================= -->
 
-<section>
+<!-- <section>
   <h2>About Me</h2>
   <p>
     Frontend Developer with 2+ years of hands-on experience building
@@ -86,7 +87,7 @@
     <li>Optimize performance for mobile-first and low-end devices</li>
     <li>Deploy applications using Vercel and cloud platforms</li>
   </ul>
-</section>
+</section> -->
 
 <hr />
 
