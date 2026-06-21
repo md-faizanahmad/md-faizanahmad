@@ -179,15 +179,15 @@ I focus on writing clean, maintainable code, building reusable components, integ
   <img
     src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770280034/Header_yt9bly.png"
     alt="School website homepage with admission enquiry system"
-    width="100%"
+    width="40%"
   />   <img
     src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770280031/Header_Footer_urdu8u.png"
     alt="School website homepage with admission enquiry system"
-    width="100%"
+    width="40%"
   /> <img
     src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770280034/desktop_abgwcu.png"
     alt="School website homepage with admission enquiry system"
-    width="100%"
+    width="40%"
   />
 
  
