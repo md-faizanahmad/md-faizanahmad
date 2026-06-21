@@ -88,7 +88,6 @@ I focus on writing clean, maintainable code, building reusable components, integ
   </ul>
 </section> -->
 
-<hr />
 
 <!-- ================= FEATURED PROJECTS ================= -->
 
