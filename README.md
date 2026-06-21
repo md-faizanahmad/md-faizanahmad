@@ -159,7 +159,7 @@ I focus on writing clean, maintainable code, building reusable components, integ
     <img
       src="https://res.cloudinary.com/dyefyrszz/image/upload/v1775581930/luman-hotel1_v5vv6v_ieo7bn.png"
       alt="Hotel booking interface with dynamic pricing"
-      width="100%"
+      width="49%"
     />
     <ul>
       <li>Step-based booking system</li>
