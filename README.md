@@ -40,7 +40,7 @@ I focus on writing clean, maintainable code, building reusable components, integ
   />
   <hr/>
   <section>
-  <h2>💻 Tech Stack</h2>
+  <h1>💻 Tech Stack</h1>
 
   <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React" hspace="5" />
