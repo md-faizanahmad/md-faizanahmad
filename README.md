@@ -8,6 +8,11 @@
   /> -->
 
   <h1>Hello 👋, I'm Md Faizan Ahmad</h1>
+  <p>
+    🌐 <a href="https://mdfaizanahmad.vercel.app" target="_blank">Portfolio</a> |
+    💼 <a href="https://linkedin.com/in/mdfaizandahmad" target="_blank">LinkedIn</a> |
+    📧 <a href="mailto:md.faizan.ahmad.web@gmail.com">Email</a>
+  </p>
 <!-- Assalamualaikum -->
   <h3>
     React Developer | React • Next.js • TypeScript
@@ -19,11 +24,6 @@
 I focus on writing clean, maintainable code, building reusable components, integrating APIs, and improving performance. Most of my work revolves around turning ideas into responsive, production-ready applications that are fast, scalable, and easy to use.
   </p>
 
-  <p>
-    🌐 <a href="https://mdfaizanahmad.vercel.app" target="_blank">Portfolio</a> |
-    💼 <a href="https://linkedin.com/in/mdfaizandahmad" target="_blank">LinkedIn</a> |
-    📧 <a href="mailto:md.faizan.ahmad.web@gmail.com">Email</a>
-  </p>
 
 <h4>Project Live Links</h4>
   <p>
