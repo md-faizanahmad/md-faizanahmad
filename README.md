@@ -221,7 +221,7 @@ I focus on writing clean, maintainable code, building reusable components, integ
 
   <img
     src="https://streak-stats.demolab.com?user=md-faizanahmad&theme=tokyonight&hide_border=true"
-    width="70%"
+    width="49%"
     alt="GitHub streak"
   />
 </section>
@@ -234,8 +234,6 @@ I focus on writing clean, maintainable code, building reusable components, integ
   <h2>🎯 Career Goal</h2>
 
   <p>
-    Seeking a Frontend Developer role in a product-focused team where I can
-    contribute to scalable UI systems, performance-driven applications,
-    and real-world problem solving.
+My goal is to build scalable and user-focused web applications, contribute to impactful products, and continuously improve my skills across frontend, backend, and modern software development practices. I enjoy turning ideas into real-world solutions and aim to grow into a well-rounded software developer capable of building and maintaining complete web applications from concept to deployment.
   </p>
 </section>
