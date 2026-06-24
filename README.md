@@ -15,7 +15,7 @@
   </p>
 <!-- Assalamualaikum -->
   <h3>
-    React Developer | React • Next.js • TypeScript
+    React Developer | React • Next.js • TypeScript.
   </h3>
 
   <p>
