@@ -9,7 +9,7 @@
 
   <h1>Hello , I'm Md Faizan Ahmad</h1>
   <p>
-    🌐 <a href="https://mdfaizanahmad.vercel.app" target="_blank">Portfolio</a> |
+    🌐 <a href="https://mdfaizanahmad.vercel.app" target="_blank">My Profile</a> |
     💼 <a href="https://linkedin.com/in/mdfaizandahmad" target="_blank">LinkedIn</a> |
     📧 <a href="mailto:md.faizan.ahmad.web@gmail.com">Email</a>
   </p>
