@@ -22,7 +22,7 @@
       LinkedIn Profile
     </a>
   </li>
-  <li> 🎥 <strong>Instagram:</strong> <a href="https://instagram.com/webgrowth_studio" target="_blank" rel="noopener noreferrer"> @webgrowth_studio </a> </li>
+  <li><strong>Instagram:</strong> <a href="https://instagram.com/webgrowth_studio" target="_blank" rel="noopener noreferrer"> @webgrowth_studio </a> </li>
   <li>
     <strong>Contact</strong> — 
     <a href="mailto:md.faizan.ahmad.web@gmail.com">
