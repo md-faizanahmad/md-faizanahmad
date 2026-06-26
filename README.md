@@ -8,8 +8,28 @@
   /> -->
 
   <h1>Hello , I'm Md Faizan Ahmad</h1>
-  <ul> <li><strong>Portfolio:</strong> <a href="https://mdfaizanahmad.vercel.app">mdfaizanahmad.vercel.app</a></li> <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/mdfaizandahmad">linkedin.com/in/mdfaizandahmad</a></li> <li><strong>Email:</strong> <a href="mailto:md.faizan.ahmad.web@gmail.com">md.faizan.ahmad.web@gmail.com</a></li> </ul>
-  
+  <h2>🌐 Find Me Online</h2>
+<ul>
+  <li>
+    <strong>Portfolio Website</strong> — 
+    <a href="https://mdfaizanahmad.vercel.app" target="_blank" rel="noopener noreferrer">
+      mdfaizanahmad.vercel.app
+    </a>
+  </li>
+  <li>
+    <strong>Professional Network</strong> — 
+    <a href="https://linkedin.com/in/mdfaizandahmad" target="_blank" rel="noopener noreferrer">
+      LinkedIn Profile
+    </a>
+  </li>
+  <li>
+    <strong>Contact</strong> — 
+    <a href="mailto:md.faizan.ahmad.web@gmail.com">
+      md.faizan.ahmad.web@gmail.com
+    </a>
+  </li>
+</ul>
+
 <!-- Assalamualaikum -->
   <h3>
     React Developer | React • Next.js • TypeScript.
