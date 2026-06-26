@@ -224,24 +224,23 @@ I focus on writing clean, maintainable code, building reusable components, integ
 
 <!-- ================= GITHUB STATS ================= -->
 
-<section>
+<section align="center">
   <h2>📊 GitHub Statistics</h2
                            
    ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=md-faizanahmad&show_icons=true&theme=tokyonight)
-
+<p align="center">
+  
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=md-faizanahmad&layout=compact&theme=tokyonight&hide_border=true"
-    width="48%"
+    width="45%"
     alt="Top languages"
   />
-
-  
-
   <img
     src="https://streak-stats.demolab.com?user=md-faizanahmad&theme=tokyonight&hide_border=true"
-    width="49%"
+    width="45%"
     alt="GitHub streak"
   />
+</p>
 </section>
 
 <hr />
@@ -250,8 +249,8 @@ I focus on writing clean, maintainable code, building reusable components, integ
 
 <section>
   <h2>🎯 Career Goal</h2>
-
   <p>
-My goal is to build scalable and user-focused web applications, contribute to impactful products, and continuously improve my skills across frontend, backend, and modern software development practices. I enjoy turning ideas into real-world solutions and aim to grow into a well-rounded software developer capable of building and maintaining complete web applications from concept to deployment.
+    My goal is to build impactful and scalable web applications that solve real-world problems while continuously improving my expertise in modern web technologies and software engineering. I enjoy transforming ideas into production-ready products and aspire to grow as a well-rounded software developer capable of designing, building, and maintaining complete web applications from concept to deployment.
   </p>
 </section>
+
