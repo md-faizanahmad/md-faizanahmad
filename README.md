@@ -235,7 +235,7 @@ I focus on writing clean, maintainable code, building reusable components, integ
     alt="Top languages"
   />
 
-  <br/>
+  
 
   <img
     src="https://streak-stats.demolab.com?user=md-faizanahmad&theme=tokyonight&hide_border=true"
