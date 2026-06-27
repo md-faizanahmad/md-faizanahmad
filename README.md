@@ -161,13 +161,14 @@ I focus on writing clean, maintainable code, building reusable components, integ
     width="49%"
   />
 </p>
+    <p><strong>Stack:</strong> React • JavaScript • Node.js • MongoDB • Zustand • Vercel • More</p>
     <ul>
       <li>JWT authentication with HttpOnly cookies</li>
       <li>Google Multi-Factor Authentication for admin</li>
       <li>Razorpay payment integration</li>
       <li>Automated PDF invoice generation</li>
     </ul>
-    <p><strong>Stack:</strong> React • TypeScript • Node.js • MongoDB • Zustand • Vercel</p>
+    <!-- <p><strong>Stack:</strong> React • JavaScript • Node.js • MongoDB • Zustand • Vercel • More</p> -->
   </article>
 
   <hr />
@@ -184,12 +185,13 @@ I focus on writing clean, maintainable code, building reusable components, integ
       alt="Animated storytelling UI with scroll-based interaction"
       width="49%"
     />
+    <p><strong>Stack:</strong> Next.js • TypeScript • Tailwind CSS • Framer Motion</p>
     <ul>
       <li>Advanced Framer Motion animations</li>
       <li>Scroll-driven transitions and parallax effects</li>
       <li>Next.js performance optimization</li>
     </ul>
-    <p><strong>Stack:</strong> Next.js • TypeScript • Tailwind CSS • Framer Motion</p>
+    
   </article>
 
   <hr />
@@ -206,6 +208,7 @@ I focus on writing clean, maintainable code, building reusable components, integ
       alt="Hotel booking interface with dynamic pricing"
       width="49%"
     />
+     <p><strong>Stack:</strong> Next.js • TypeScript • Tailwind CSS</p>
     <ul>
       <li>Step-based booking system</li>
       <li>Dynamic GST calculation logic</li>
@@ -235,7 +238,7 @@ I focus on writing clean, maintainable code, building reusable components, integ
     width="40%"
   />
 
- 
+ <p><strong>Stack:</strong> Next.js • TypeScript • Tailwind CSS • Nodemailer • Google Sheets API</p>
   <ul>
     <li>Online Admission Enquiry System (Parent + Admin Email Notification)</li>
     <li>Enquiry data stored directly in Google Sheets</li>
