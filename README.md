@@ -44,14 +44,40 @@ I focus on writing clean, maintainable code, building reusable components, integ
 
 
 <h4>Project Live Links</h4>
-  <p>
-    🌐 <a href="https://myazstore.shop" target="_blank">MyAZStore</a> |
-    🪑 <a href="https://luman-studio.vercel.app" target="_blank">Luman Studio</a> |
-    🏨 <a href="https://luman-hotel.vercel.app">Luman Hotel</a> |
-    🏫 <a href="https://school-demo-sepia.vercel.app/">School</a> |
-    👨‍💻 <a href="https://essentialcalc.com/">Essential Tools,Blog</a>
-    
-  </p>
+  <h2>🚀 Featured Projects</h2>
+
+<ul>
+  <li>
+    🛒 <a href="https://myazstore.shop" target="_blank" rel="noopener noreferrer">
+      MyAZStore
+    </a> — Full-stack e-commerce platform with admin dashboard
+  </li>
+
+  <li>
+    🪑 <a href="https://luman-studio.vercel.app" target="_blank" rel="noopener noreferrer">
+      Luman Studio
+    </a> — Furniture and interior design showcase website
+  </li>
+
+  <li>
+    🏨 <a href="https://luman-hotel.vercel.app" target="_blank" rel="noopener noreferrer">
+      Luman Hotel
+    </a> — Modern hotel booking and hospitality website
+  </li>
+
+  <li>
+    🎓 <a href="https://school-demo-sepia.vercel.app" target="_blank" rel="noopener noreferrer">
+      School Management
+    </a> — School website and administration platform
+  </li>
+
+  <li>
+    🎬 <a href="https://find-movie-gamma.vercel.app" target="_blank" rel="noopener noreferrer">
+      FindMovie
+    </a> — Movie discovery and search application
+  </li>
+</ul>
+
   <img
     src="https://komarev.com/ghpvc/?username=md-faizanahmad&label=Profile%20views&color=0e75b6&style=flat"
     alt="Profile views counter"
