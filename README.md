@@ -43,7 +43,7 @@ I focus on writing clean, maintainable code, building reusable components, integ
   </p>
 
 
-<h4>Project Live Links</h4>
+<h1>Project Live Links</h4>
   <h2>🚀 Featured Projects</h2>
 
 <ul>
