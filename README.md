@@ -224,6 +224,20 @@
   </section>
 </header>
 
+  <section>
+    <h2>🎯 Career Goal</h2>
+
+<p>
+  My goal is to build impactful and scalable web applications that solve
+  real-world problems while continuously improving my expertise in modern
+  web technologies and software engineering. I enjoy transforming ideas into
+  production-ready products and aspire to grow as a well-rounded software
+  developer capable of designing, building, and maintaining complete web
+  applications from concept to deployment.
+</p>
+
+
+  </section>
 <main>
     <section align="center">
     <h2>📊 GitHub Statistics</h2>
@@ -245,19 +259,5 @@
 
   </section>
 
-  <section>
-    <h2>🎯 Career Goal</h2>
-
-<p>
-  My goal is to build impactful and scalable web applications that solve
-  real-world problems while continuously improving my expertise in modern
-  web technologies and software engineering. I enjoy transforming ideas into
-  production-ready products and aspire to grow as a well-rounded software
-  developer capable of designing, building, and maintaining complete web
-  applications from concept to deployment.
-</p>
-
-
-  </section>
 
 </main>
