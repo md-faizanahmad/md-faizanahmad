@@ -8,7 +8,10 @@
   /> -->
 
   <h1>Hello , I'm Md Faizan Ahmad</h1>
-  <h2>🌐 Find Me Online</h2>
+  <p><h1>🌐 Find Me Online</h1> <img
+    src="https://komarev.com/ghpvc/?username=md-faizanahmad&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views counter"
+  /> </p> 
 <ul>
   <li>
     <strong>Portfolio Website</strong> — 
