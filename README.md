@@ -19,7 +19,7 @@
   <li>
     <strong>Professional Network</strong> — 
     <a href="https://linkedin.com/in/mdfaizandahmad" target="_blank" rel="noopener noreferrer">
-      LinkedIn Profile
+      linkedin.com/in/mdfaizandahmad
     </a>
   </li>
   <li><strong>Instagram:</strong> <a href="https://instagram.com/webgrowth_studio" target="_blank" rel="noopener noreferrer"> @webgrowth_studio </a> </li>
