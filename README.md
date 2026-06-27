@@ -80,11 +80,11 @@ I focus on writing clean, maintainable code, building reusable components, integ
     </a> — Movie discovery and search application
   </li>
 </ul>
-
+<!-- 
   <img
     src="https://komarev.com/ghpvc/?username=md-faizanahmad&label=Profile%20views&color=0e75b6&style=flat"
     alt="Profile views counter"
-  />
+  /> -->
   <hr/>
   <section>
   <h1>💻 Tech Stack</h1>
