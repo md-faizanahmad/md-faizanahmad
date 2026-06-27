@@ -65,89 +65,143 @@
 
   </section>
 
-  <section>
+<section>
   <h2>🚀 Featured Projects</h2>
-
   <article>
     <h3>🛒 MyAZStore — Full-Stack E-commerce Platform</h3>
-    <p>
-      <strong>Live:</strong>
-      <a href="https://myazstore.shop" target="_blank" rel="noopener noreferrer">
-        Shop
-      </a>
-    </p>
-    <p>
-      <strong>Stack:</strong>
-      React • JavaScript • Node.js • MongoDB • Zustand • Vercel • More
-    </p>
-    <ul>
-      <li>JWT authentication with HttpOnly cookies</li>
-      <li>Google Multi-Factor Authentication for admin</li>
-      <li>Razorpay payment integration</li>
-      <li>Automated PDF invoice generation</li>
-    </ul>
-  </article>
+<p>
+  <strong>Live:</strong>
+  <a href="https://myazstore.shop" target="_blank" rel="noopener noreferrer">
+    Shop
+  </a>
+</p>
 
+<p align="center">
+  <img
+    src="https://res.cloudinary.com/daqb5wglu/image/upload/v1766169968/ShopUI_evspte.png"
+    alt="Storefront"
+    width="49%"
+  />
+  <img
+    src="https://res.cloudinary.com/dyefyrszz/image/upload/v1775581914/AdminDash_hgfg18_obsmve.png"
+    alt="Admin Dashboard"
+    width="49%"
+  />
+</p>
+
+<p>
+  <strong>Stack:</strong>
+  React • JavaScript • Node.js • MongoDB • Zustand • Vercel • More
+</p>
+
+<ul>
+  <li>JWT authentication with HttpOnly cookies</li>
+  <li>Google Multi-Factor Authentication for admin</li>
+  <li>Razorpay payment integration</li>
+  <li>Automated PDF invoice generation</li>
+</ul>
+
+  </article>
+  <!-- Luman Studio -->
   <article>
-    <h3>🎨 Luman Studio — Interactive Storytelling UI</h3
-    <p>
-      <strong>Live:</strong>
-      <a href="https://luman-studio.vercel.app" target="_blank" rel="noopener noreferrer">
-        Live Demo
-      </a>
-    </p>
-    <p>
-      <strong>Stack:</strong>
-      Next.js • TypeScript • Tailwind CSS • Framer Motion
-    </p>
-    <ul>
-      <li>Advanced Framer Motion animations</li>
-      <li>Scroll-driven transitions and parallax effects</li>
-      <li>Next.js performance optimization</li>
-    </ul>
+    <h3>🎨 Luman Studio — Interactive Storytelling UI</h3>
+<p>
+  <strong>Live:</strong>
+  <a href="https://luman-studio.vercel.app" target="_blank" rel="noopener noreferrer">
+    Live Demo
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://res.cloudinary.com/dyefyrszz/image/upload/v1775581928/luman-stdio_cctkn5_guenon.png"
+    alt="Animated storytelling UI with scroll-based interaction"
+    width="49%"
+  />
+</p>
+
+<p>
+  <strong>Stack:</strong>
+  Next.js • TypeScript • Tailwind CSS • Framer Motion
+</p>
+
+<ul>
+  <li>Advanced Framer Motion animations</li>
+  <li>Scroll-driven transitions and parallax effects</li>
+  <li>Next.js performance optimization</li>
+</ul>
+
   </article>
 
+  <!-- Luman Hotel -->
   <article>
-    <h3>🏨 Luman Hotel — Booking Experience</h3
-    <img src="https://res.cloudinary.com/dyefyrszz/image/upload/v1775581930/luman-hotel1_v5vv6v_ieo7bn.png"
-      alt="Hotel booking interface with dynamic pricing"
-      width="49%" />
-    <p>
-      <strong>Live:</strong>
-      <a href="https://luman-hotel.vercel.app" target="_blank" rel="noopener noreferrer">
-        Live Demo
-      </a>
-    </p>
-        <p>
-      <strong>Stack:</strong>
-      Next.js • TypeScript • Tailwind CSS
-    </p>
-    <ul>
-      <li>Step-based booking system</li>
-      <li>Dynamic GST calculation logic</li>
-      <li>Serverless booking confirmation email system</li>
-    </ul>
-  </article>
+    <h3>🏨 Luman Hotel — Booking Experience</h3>
+<p>
+  <strong>Live:</strong>
+  <a href="https://luman-hotel.vercel.app" target="_blank" rel="noopener noreferrer">
+    Live Demo
+  </a>
+</p>
 
+<p align="center">
+  <img
+    src="https://res.cloudinary.com/dyefyrszz/image/upload/v1775581930/luman-hotel1_v5vv6v_ieo7bn.png"
+    alt="Hotel booking interface with dynamic pricing"
+    width="49%"
+  />
+</p>
+
+<p>
+  <strong>Stack:</strong>
+  Next.js • TypeScript • Tailwind CSS
+</p>
+
+<ul>
+  <li>Step-based booking system</li>
+  <li>Dynamic GST calculation logic</li>
+  <li>Serverless booking confirmation email system</li>
+</ul>
+
+  </article>
   <article>
     <h3>🏫 School Management & Admission Website — Demo</h3>
-    <p>
-      <strong>Live:</strong>
-      <a href="https://school-demo-sepia.vercel.app" target="_blank" rel="noopener noreferrer">
-        Live Demo
-      </a>
-    </p>
-    <p>
-      <strong>Stack:</strong>
-      Next.js • TypeScript • Tailwind CSS • Nodemailer • Google Sheets API
-    </p>
-    <ul>
-      <li>Online Admission Enquiry System (Parent + Admin Email Notification)</li>
-      <li>Enquiry data stored directly in Google Sheets</li>
-      <li>Dynamic Notice Board managed via Google Sheets</li>
-      <li>Mobile-first responsive design for parents</li>
-      <li>SEO-optimized pages with structured metadata</li>
-    </ul>
+<p>
+  <strong>Live:</strong>
+  <a href="https://school-demo-sepia.vercel.app" target="_blank" rel="noopener noreferrer">
+    Live Demo
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770280034/Header_yt9bly.png"
+    alt="School website homepage with admission enquiry system"
+    width="40%"
+  />
+  <img
+    src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770280031/Header_Footer_urdu8u.png"
+    alt="School website header and footer"
+    width="40%"
+  />
+  <img
+    src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770280034/desktop_abgwcu.png"
+    alt="School website desktop view"
+    width="40%"
+  />
+</p>
+
+<p>
+  <strong>Stack:</strong>
+  Next.js • TypeScript • Tailwind CSS • Nodemailer • Google Sheets API
+</p>
+
+<ul>
+  <li>Online Admission Enquiry System (Parent + Admin Email Notification)</li>
+  <li>Enquiry data stored directly in Google Sheets</li>
+  <li>Dynamic Notice Board managed via Google Sheets</li>
+  <li>Mobile-first responsive design for parents</li>
+  <li>SEO-optimized pages with structured metadata</li>
+</ul>
   </article>
 </section>
 
@@ -167,7 +221,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vercel_logo_2025.svg/1920px-Vercel_logo_2025.svg.png" width="40" alt="Vercel" hspace="5"  />
 
 </p>
-
   </section>
 </header>
 
