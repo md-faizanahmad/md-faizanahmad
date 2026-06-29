@@ -29,8 +29,11 @@
   <a href="mailto:md.faizan.ahmad.web@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
   </a>
+  
 </p>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=md-faizanahmad&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
   </section>
 
   <section>
