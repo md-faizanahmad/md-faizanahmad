@@ -2,6 +2,35 @@
 
 <header>
   <h1>Hello, I'm Md Faizan Ahmad</h1>
+  <p align="center">
+  <a href="https://mdfaizanahmad.vercel.app">
+    <img
+      src="https://img.shields.io/badge/Portfolio-Live-000?style=for-the-badge&logo=vercel"
+      alt="Portfolio"
+    />
+  </a>
+
+  <a href="https://linkedin.com/in/mdfaizandahmad">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://instagram.com/webgrowth_studio">
+    <img
+      src="https://img.shields.io/badge/Instagram-@webgrowth__studio-E4405F?style=for-the-badge&logo=instagram"
+      alt="Instagram"
+    />
+  </a>
+
+  <a href="mailto:md.faizan.ahmad.web@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"
+      alt="Email"
+    />
+  </a>
+</p>
 <p>
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=React+Developer;Next.js+Developer;Full+Stack+Web+Developer;Building+Production+Ready+Applications"
