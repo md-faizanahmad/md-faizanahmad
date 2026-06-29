@@ -8,6 +8,23 @@
     alt="Typing SVG"
   />
 </p>
+  <p align="center">
+  <a href="https://myazstore.shop">
+    <img src="https://img.shields.io/badge/🛒_MyAZStore-Live-success?style=for-the-badge" />
+  </a>
+
+  <a href="https://luman-studio.vercel.app">
+    <img src="https://img.shields.io/badge/🎨_Luman_Studio-Live-blue?style=for-the-badge" />
+  </a>
+
+  <a href="https://luman-hotel.vercel.app">
+    <img src="https://img.shields.io/badge/🏨_Luman_Hotel-Live-orange?style=for-the-badge" />
+  </a>
+
+  <a href="https://school-demo-sepia.vercel.app">
+    <img src="https://img.shields.io/badge/🏫_School_Demo-Live-purple?style=for-the-badge" />
+  </a>
+</p
   <p>
     <img
       src="https://komarev.com/ghpvc/?username=md-faizanahmad&label=Profile%20views&color=0e75b6&style=flat"
@@ -248,22 +265,6 @@
 
 
   </section>
-<p align="center">
-  <a href="https://myazstore.shop">
-    <img src="https://img.shields.io/badge/🛒_MyAZStore-Live-success?style=for-the-badge" />
-  </a>
-
-  <a href="https://luman-studio.vercel.app">
-    <img src="https://img.shields.io/badge/🎨_Luman_Studio-Live-blue?style=for-the-badge" />
-  </a>
-
-  <a href="https://luman-hotel.vercel.app">
-    <img src="https://img.shields.io/badge/🏨_Luman_Hotel-Live-orange?style=for-the-badge" />
-  </a>
-
-  <a href="https://school-demo-sepia.vercel.app">
-    <img src="https://img.shields.io/badge/🏫_School_Demo-Live-purple?style=for-the-badge" />
-  </a>
-</p>
+>
 
 </main>
