@@ -31,29 +31,16 @@
     />
   </a>
 </p>
-<p>
+
+
+<p align="left">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=React+Developer;Next.js+Developer;Full+Stack+Web+Developer;Building+Production+Ready+Applications"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1200&color=F5F5F5&background=00000000&vCenter=true&width=700&lines=React+Developer;Next.js+Developer;Full+Stack+Web+Developer;Building+Production+Ready+Applications"
     alt="Typing SVG"
   />
 </p>
-  <p align="center">
-  <a href="https://myazstore.shop">
-    <img src="https://img.shields.io/badge/🛒_MyAZStore-Live-success?style=for-the-badge" />
-  </a>
 
-  <a href="https://luman-studio.vercel.app">
-    <img src="https://img.shields.io/badge/🎨_Luman_Studio-Live-blue?style=for-the-badge" />
-  </a>
-
-  <a href="https://luman-hotel.vercel.app">
-    <img src="https://img.shields.io/badge/🏨_Luman_Hotel-Live-orange?style=for-the-badge" />
-  </a>
-
-  <a href="https://school-demo-sepia.vercel.app">
-    <img src="https://img.shields.io/badge/🏫_School_Demo-Live-purple?style=for-the-badge" />
-  </a>
-</p
+  
   <p>
     <img
       src="https://komarev.com/ghpvc/?username=md-faizanahmad&label=Profile%20views&color=0e75b6&style=flat"
