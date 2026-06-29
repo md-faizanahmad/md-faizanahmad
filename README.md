@@ -48,12 +48,7 @@
     />
   </p>
 
-  <section>
-  <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=md-faizanahmad&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-  </section>
-
+ 
   <section>
     <h2>React Developer | React • Next.js • TypeScript</h2>
 
@@ -72,7 +67,23 @@
 
 
   </section>
+<p align="center">
+  <a href="https://myazstore.shop">
+    <img src="https://img.shields.io/badge/🛒_MyAZStore-Live-success?style=for-the-badge" />
+  </a>
 
+  <a href="https://luman-studio.vercel.app">
+    <img src="https://img.shields.io/badge/🎨_Luman_Studio-Live-blue?style=for-the-badge" />
+  </a>
+
+  <a href="https://luman-hotel.vercel.app">
+    <img src="https://img.shields.io/badge/🏨_Luman_Hotel-Live-orange?style=for-the-badge" />
+  </a>
+
+  <a href="https://school-demo-sepia.vercel.app">
+    <img src="https://img.shields.io/badge/🏫_School_Demo-Live-purple?style=for-the-badge" />
+  </a>
+</p>
 <section>
   <h2>🚀 Featured Projects</h2>
   <article>
