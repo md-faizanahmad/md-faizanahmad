@@ -240,7 +240,13 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vercel_logo_2025.svg/1920px-Vercel_logo_2025.svg.png" width="40" alt="Vercel" hspace="5"  />
 
 </p>
-  </section>
+  </section
+    <p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=md-faizanahmad&theme=tokyo-night&hide_border=true"
+    alt="Contribution Graph"
+  />
+</p>
 </header>
 
   <section>
