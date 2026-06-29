@@ -2,7 +2,7 @@
 
 <header>
   <h1>Hello, I'm Md Faizan Ahmad</h1>
-  <p align="center">
+  <p>
   <a href="https://mdfaizanahmad.vercel.app">
     <img
       src="https://img.shields.io/badge/Portfolio-Live-000?style=for-the-badge&logo=vercel"
@@ -62,22 +62,7 @@
   </p>
 
   <section>
-    <h2>🌐 Find Me Online</h2>
-<p align="center">
-  <a href="https://mdfaizanahmad.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Live-000?style=for-the-badge&logo=vercel" />
-  </a>
-
-  <a href="https://linkedin.com/in/mdfaizandahmad">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <a href="mailto:md.faizan.ahmad.web@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
-  </a>
-  
-</p>
-<p align="center">
+  <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=md-faizanahmad&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
   </section>
