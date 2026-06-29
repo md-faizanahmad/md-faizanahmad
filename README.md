@@ -17,37 +17,19 @@
 
   <section>
     <h2>🌐 Find Me Online</h2>
+<p align="center">
+  <a href="https://mdfaizanahmad.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Live-000?style=for-the-badge&logo=vercel" />
+  </a>
 
-<ul>
-  <li>
-    <strong>Portfolio Website</strong> —
-    <a href="https://mdfaizanahmad.vercel.app" target="_blank" rel="noopener noreferrer">
-      mdfaizanahmad.vercel.app
-    </a>
-  </li>
+  <a href="https://linkedin.com/in/mdfaizandahmad">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 
-  <li>
-    <strong>Professional Network</strong> —
-    <a href="https://linkedin.com/in/mdfaizandahmad" target="_blank" rel="noopener noreferrer">
-      linkedin.com/in/mdfaizandahmad
-    </a>
-  </li>
-
-  <li>
-    <strong>Instagram</strong> —
-    <a href="https://instagram.com/webgrowth_studio" target="_blank" rel="noopener noreferrer">
-      @webgrowth_studio
-    </a>
-  </li>
-
-  <li>
-    <strong>Contact</strong> —
-    <a href="mailto:md.faizan.ahmad.web@gmail.com">
-      md.faizan.ahmad.web@gmail.com
-    </a>
-  </li>
-</ul>
-
+  <a href="mailto:md.faizan.ahmad.web@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
   </section>
 
