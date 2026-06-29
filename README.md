@@ -2,7 +2,7 @@
 
 <header>
   <h1>Hello, I'm Md Faizan Ahmad</h1>
-<p align="center">
+<p>
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=React+Developer;Next.js+Developer;Full+Stack+Web+Developer;Building+Production+Ready+Applications"
     alt="Typing SVG"
