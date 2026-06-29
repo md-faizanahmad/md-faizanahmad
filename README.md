@@ -31,7 +31,9 @@
     />
   </a>
 </p>
-
+<p>
+💼 2+ Years Experience • ⚛️ React Ecosystem • 🚀 Production Applications • 🌍 Open to Opportunities
+</p>
 
 <p align="left">
   <img
