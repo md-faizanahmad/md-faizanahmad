@@ -333,12 +333,13 @@
   <p align="center">
     <img
       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=md-faizanahmad&layout=compact&theme=tokyonight&hide_border=true"
-      width="49%"
+      width="35%"
       alt="Top Languages"
     />
     <img
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-faizanahmad&theme=tokyonight"
-      width="49%"
+      width="55%"
+      height="55%"
       alt="Profile Summary"
     />
   </p>
