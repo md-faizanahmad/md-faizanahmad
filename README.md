@@ -84,6 +84,9 @@
     <img src="https://img.shields.io/badge/🏫_School_Demo-Live-purple?style=for-the-badge" />
   </a>
 </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,nodejs,mongodb,firebase,git,vercel,postman,api" />
+</p> 
 <section>
   <h2>🚀 Featured Projects</h2>
   <article>
@@ -224,9 +227,7 @@
   </article>
 </section>
 
- <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,nodejs,mongodb,firebase,git,vercel" />
-</p>   <p align="center">
+   <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=md-faizanahmad&theme=tokyo-night&hide_border=true"
     alt="Contribution Graph"
