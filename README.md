@@ -150,7 +150,7 @@
   <img
     src="https://skillicons.dev/icons?i=react,js,nodejs,mongodb,git,vercel&theme=dark"
     alt="Tech Stack"
-    width="20"
+    
   />
 </p>
 
@@ -186,7 +186,7 @@
   <img
     src="https://skillicons.dev/icons?i=nextjs,ts,tailwind&theme=dark"
     alt="Tech Stack"
-    width="20"
+    
   />
   &nbsp;
   <img
@@ -227,12 +227,11 @@
   <img
     src="https://skillicons.dev/icons?i=nextjs,ts,tailwind&theme=dark"
     alt="Tech Stack"
-    width="20"
   />
     &nbsp;
   <img
     src="https://cdn.simpleicons.org/framer/ffffff"
-    width="20"
+    width="48"
     alt="Framer Motion"
   />
 
@@ -277,12 +276,12 @@
   <img
     src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,nodejs&theme=dark"
     alt="Tech Stack"
-    width="20"
+    
   />
     &nbsp;
   <img
     src="https://cdn.simpleicons.org/framer/ffffff"
-    width="20"
+    width="48"
     alt="Framer Motion"
   />
 
