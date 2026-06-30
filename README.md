@@ -296,12 +296,14 @@
 ---
 </section>
 
-   <p align="center">
+   
+  <p >
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=md-faizanahmad&theme=tokyo-night&hide_border=true"
-    alt="Contribution Graph"
+    alt="GitHub Activity Graph"
   />
 </p>
+
 
 
   <section>
