@@ -3,6 +3,28 @@
 <header>
   <h1>Hello, I'm Md Faizan Ahmad</h1>
   <p>
+💼 2+ Years Experience • ⚛️ React Ecosystem • 🚀 Production Applications • 🌍 Open to Opportunities
+</p>
+  
+  <section>
+    <h2>React Developer | React • Next.js • TypeScript</h2>
+
+<p>
+  I enjoy building web applications that solve real problems and provide a smooth user experience.
+  Over the past 2+ years, I've worked with React, Next.js, TypeScript, Node.js, Express, and MongoDB
+  to create projects ranging from e-commerce platforms and admin dashboards to authentication systems
+  and business applications.
+</p>
+
+<p>
+  I focus on writing clean, maintainable code, building reusable components, integrating APIs,
+  and improving performance. Most of my work revolves around turning ideas into responsive,
+  production-ready applications that are fast, scalable, and easy to use.
+</p>
+
+
+  </section>
+  <p>
   <a href="https://mdfaizanahmad.vercel.app">
     <img
       src="https://img.shields.io/badge/Portfolio-Live-000?style=for-the-badge&logo=vercel"
@@ -31,9 +53,7 @@
     />
   </a>
 </p>
-<p>
-💼 2+ Years Experience • ⚛️ React Ecosystem • 🚀 Production Applications • 🌍 Open to Opportunities
-</p>
+
 
 <p align="left">
   <img
@@ -51,24 +71,6 @@
   </p>
 
  
-  <section>
-    <h2>React Developer | React • Next.js • TypeScript</h2>
-
-<p>
-  I enjoy building web applications that solve real problems and provide a smooth user experience.
-  Over the past 2+ years, I've worked with React, Next.js, TypeScript, Node.js, Express, and MongoDB
-  to create projects ranging from e-commerce platforms and admin dashboards to authentication systems
-  and business applications.
-</p>
-
-<p>
-  I focus on writing clean, maintainable code, building reusable components, integrating APIs,
-  and improving performance. Most of my work revolves around turning ideas into responsive,
-  production-ready applications that are fast, scalable, and easy to use.
-</p>
-
-
-  </section>
 <p align="center">
   <a href="https://myazstore.shop">
     <img src="https://img.shields.io/badge/🛒_MyAZStore-Live-success?style=for-the-badge" />
