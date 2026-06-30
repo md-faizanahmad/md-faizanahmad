@@ -171,11 +171,11 @@
 
 **Live:** <a href="https://luman-studio.vercel.app">Live Demo</a>
 
-<p align="center">
+<p >
   <img
     src="https://res.cloudinary.com/dyefyrszz/image/upload/v1775581928/luman-stdio_cctkn5_guenon.png"
     alt="Animated storytelling UI with scroll-based interaction"
-    width="49%"
+    width="60%"
   />
 </p>
 
@@ -204,11 +204,11 @@
 
 **Live:** <a href="https://luman-hotel.vercel.app">Live Demo</a>
 
-<p align="center">
+<p >
   <img
     src="https://res.cloudinary.com/dyefyrszz/image/upload/v1775581930/luman-hotel1_v5vv6v_ieo7bn.png"
     alt="Hotel booking interface with dynamic pricing"
-    width="49%"
+    width="60%"
   />
 </p>
 
