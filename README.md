@@ -167,19 +167,14 @@
   <!-- Luman Studio -->
  <article>
 
-### 🛒 MyAZStore — Full-Stack E-commerce Platform
+### 🎨 Luman Studio — Interactive Storytelling UI
 
-**Live:** <a href="https://myazstore.shop">Shop</a>
+**Live:** <a href="https://luman-studio.vercel.app">Live Demo</a>
 
 <p align="center">
   <img
-    src="https://res.cloudinary.com/daqb5wglu/image/upload/v1766169968/ShopUI_evspte.png"
-    alt="Storefront"
-    width="49%"
-  />
-  <img
-    src="https://res.cloudinary.com/dyefyrszz/image/upload/v1775581914/AdminDash_hgfg18_obsmve.png"
-    alt="Admin Dashboard"
+    src="https://res.cloudinary.com/dyefyrszz/image/upload/v1775581928/luman-stdio_cctkn5_guenon.png"
+    alt="Animated storytelling UI with scroll-based interaction"
     width="49%"
   />
 </p>
@@ -188,30 +183,26 @@
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=react,js,nodejs,mongodb,git,vercel&theme=dark"
+    src="https://skillicons.dev/icons?i=nextjs,ts,tailwind&theme=dark"
     alt="Tech Stack"
   />
 </p>
 
 | Feature | Description |
 | :--- | :--- |
-| 🔐 | JWT Authentication with HttpOnly Cookies |
-| 🛡️ | Google Multi-Factor Authentication |
-| 💳 | Razorpay Payment Integration |
-| 📄 | Automated PDF Invoice Generation |
+| ✨ | Advanced Framer Motion Animations |
+| 🎬 | Scroll-driven Transitions & Parallax Effects |
+| ⚡ | Next.js Performance Optimization |
 
 </article>
 
 ---
   <!-- Luman Hotel -->
   <article>
-    <h3>🏨 Luman Hotel — Booking Experience</h3>
-<p>
-  <strong>Live:</strong>
-  <a href="https://luman-hotel.vercel.app" target="_blank" rel="noopener noreferrer">
-    Live Demo
-  </a>
-</p>
+
+### 🏨 Luman Hotel — Booking Experience
+
+**Live:** <a href="https://luman-hotel.vercel.app">Live Demo</a>
 
 <p align="center">
   <img
@@ -221,19 +212,25 @@
   />
 </p>
 
+#### Tech Stack
+
 <p>
-  <strong>Stack:</strong>
-  Next.js • TypeScript • Tailwind CSS
+  <img
+    src="https://skillicons.dev/icons?i=nextjs,ts,tailwind&theme=dark"
+    alt="Tech Stack"
+  />
 </p>
 
-<ul>
-  <li>Step-based booking system</li>
-  <li>Dynamic GST calculation logic</li>
-  <li>Serverless booking confirmation email system</li>
-</ul>
+| Feature | Description |
+| :--- | :--- |
+| 📅 | Step-based Booking System |
+| 💰 | Dynamic GST Calculation Logic |
+| 📧 | Serverless Booking Confirmation Email System |
 
-  </article>
-  <article>
+</article>
+
+---
+<article>
     <h3>🏫 School Management & Admission Website — Demo</h3>
 <p>
   <strong>Live:</strong>
