@@ -236,7 +236,7 @@
 
 **Live:** <a href="https://school-demo-sepia.vercel.app">Live Demo</a>
 
-<p align="center">
+<p>
   <img
     src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770280034/Header_yt9bly.png"
     alt="School website homepage with admission enquiry system"
