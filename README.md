@@ -149,9 +149,7 @@
 <p>
   <img
     src="https://skillicons.dev/icons?i=react,js,nodejs,mongodb,git,vercel&theme=dark"
-    alt="Tech Stack"
-    
-  />
+    alt="Tech Stack" />
 </p>
 
 | Feature | Description |
@@ -172,7 +170,7 @@
 
 **Live:** <a href="https://luman-studio.vercel.app">Live Demo</a>
 
-<p >
+<p>
   <img
     src="https://res.cloudinary.com/dyefyrszz/image/upload/v1775581928/luman-stdio_cctkn5_guenon.png"
     alt="Animated storytelling UI with scroll-based interaction"
@@ -186,7 +184,6 @@
   <img
     src="https://skillicons.dev/icons?i=nextjs,ts,tailwind&theme=dark"
     alt="Tech Stack"
-    
   />
   &nbsp;
   <img
@@ -276,7 +273,6 @@
   <img
     src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,nodejs&theme=dark"
     alt="Tech Stack"
-    
   />
     &nbsp;
   <img
