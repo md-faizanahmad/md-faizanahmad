@@ -124,9 +124,8 @@
 
 <!-- ================= Sections ================= -->
 <section>
-  <h2>🚀 Featured Projects</h2><table>
-<tr>
-<td width="100%">
+  <h2>🚀 Featured Projects</h2>
+  <article>
 
 ### 🛒 MyAZStore — Full-Stack E-commerce Platform
 
@@ -154,48 +153,56 @@
   />
 </p>
 
-| Features | |
-|---|---|
+| Feature | Description |
+| :--- | :--- |
 | 🔐 | JWT Authentication with HttpOnly Cookies |
 | 🛡️ | Google Multi-Factor Authentication |
 | 💳 | Razorpay Payment Integration |
 | 📄 | Automated PDF Invoice Generation |
 
-</td>
-</tr>
-</table>
+</article>
+
+---
 
   <!-- Luman Studio -->
-  <article>
-    <h3>🎨 Luman Studio — Interactive Storytelling UI</h3>
-<p>
-  <strong>Live:</strong>
-  <a href="https://luman-studio.vercel.app" target="_blank" rel="noopener noreferrer">
-    Live Demo
-  </a>
-</p>
+ <article>
+
+### 🛒 MyAZStore — Full-Stack E-commerce Platform
+
+**Live:** <a href="https://myazstore.shop">Shop</a>
 
 <p align="center">
   <img
-    src="https://res.cloudinary.com/dyefyrszz/image/upload/v1775581928/luman-stdio_cctkn5_guenon.png"
-    alt="Animated storytelling UI with scroll-based interaction"
+    src="https://res.cloudinary.com/daqb5wglu/image/upload/v1766169968/ShopUI_evspte.png"
+    alt="Storefront"
+    width="49%"
+  />
+  <img
+    src="https://res.cloudinary.com/dyefyrszz/image/upload/v1775581914/AdminDash_hgfg18_obsmve.png"
+    alt="Admin Dashboard"
     width="49%"
   />
 </p>
 
+#### Tech Stack
+
 <p>
-  <strong>Stack:</strong>
-  Next.js • TypeScript • Tailwind CSS • Framer Motion
+  <img
+    src="https://skillicons.dev/icons?i=react,js,nodejs,mongodb,git,vercel&theme=dark"
+    alt="Tech Stack"
+  />
 </p>
 
-<ul>
-  <li>Advanced Framer Motion animations</li>
-  <li>Scroll-driven transitions and parallax effects</li>
-  <li>Next.js performance optimization</li>
-</ul>
+| Feature | Description |
+| :--- | :--- |
+| 🔐 | JWT Authentication with HttpOnly Cookies |
+| 🛡️ | Google Multi-Factor Authentication |
+| 💳 | Razorpay Payment Integration |
+| 📄 | Automated PDF Invoice Generation |
 
-  </article>
+</article>
 
+---
   <!-- Luman Hotel -->
   <article>
     <h3>🏨 Luman Hotel — Booking Experience</h3>
