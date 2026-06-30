@@ -66,11 +66,8 @@
 </p>
 
 
-
-  
-
  
-<p align="center">
+<p>
   <a href="https://myazstore.shop">
     <img src="https://img.shields.io/badge/🛒_MyAZStore-Live-success?style=for-the-badge" />
   </a>
