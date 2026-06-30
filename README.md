@@ -231,13 +231,10 @@
 
 ---
 <article>
-    <h3>🏫 School Management & Admission Website — Demo</h3>
-<p>
-  <strong>Live:</strong>
-  <a href="https://school-demo-sepia.vercel.app" target="_blank" rel="noopener noreferrer">
-    Live Demo
-  </a>
-</p>
+
+### 🏫 School Management & Admission Website — Demo
+
+**Live:** <a href="https://school-demo-sepia.vercel.app">Live Demo</a>
 
 <p align="center">
   <img
@@ -257,19 +254,26 @@
   />
 </p>
 
+#### Tech Stack
+
 <p>
-  <strong>Stack:</strong>
-  Next.js • TypeScript • Tailwind CSS • Nodemailer • Google Sheets API
+  <img
+    src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,nodejs&theme=dark"
+    alt="Tech Stack"
+  />
 </p>
 
-<ul>
-  <li>Online Admission Enquiry System (Parent + Admin Email Notification)</li>
-  <li>Enquiry data stored directly in Google Sheets</li>
-  <li>Dynamic Notice Board managed via Google Sheets</li>
-  <li>Mobile-first responsive design for parents</li>
-  <li>SEO-optimized pages with structured metadata</li>
-</ul>
-  </article>
+| Feature | Description |
+| :--- | :--- |
+| 📩 | Online Admission Enquiry System |
+| 📧 | Parent & Admin Email Notifications |
+| 📊 | Google Sheets Data Storage |
+| 📱 | Mobile-first Responsive Design |
+| 🔍 | SEO-Optimized Pages |
+
+</article>
+
+---
 </section>
 
    <p align="center">
