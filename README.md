@@ -1,92 +1,124 @@
 <!-- ================= HERO ================= -->
+<header>
+
+  <!-- Profile Views -->
   <p>
     <img
       src="https://komarev.com/ghpvc/?username=md-faizanahmad&label=Profile%20views&color=0e75b6&style=flat"
       alt="Profile views counter"
     />
   </p>
-<p>
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1200&color=F5F5F5&background=00000000&vCenter=true&width=700&lines=React+Developer;Next.js+Developer;Full+Stack+Web+Developer;Building+Production+Ready+Applications"
-    alt="Typing SVG"
-  />
-</p>
-<header>
-  <h1>Hello, I'm Md Faizan Ahmad</h1>
+
+  <!-- Name -->
+  <h1>Hi, I'm Md Faizan Ahmad 👋</h1>
+
+  <!-- Animated Role -->
   <p>
-💼 2+ Years Experience • ⚛️ React Ecosystem • 🚀 Production Applications • 🌍 Open to Opportunities
-</p>
-  
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1200&color=F5F5F5&background=00000000&vCenter=true&width=700&lines=React+Developer;Next.js+Developer;Full+Stack+Web+Developer;Building+Production+Ready+Applications"
+      alt="Professional roles animation"
+    />
+  </p>
+
+  <!-- Experience -->
+  <p>
+    💼 <strong>2+ Years Experience</strong>
+    • ⚛️ <strong>React Ecosystem</strong>
+    • 🚀 <strong>Production Applications</strong>
+    • 🌍 <strong>Open to Opportunities</strong>
+  </p>
+
+  <!-- About -->
   <section>
     <h2>React Developer | React • Next.js • TypeScript</h2>
-
-<p>
-  I enjoy building web applications that solve real problems and provide a smooth user experience.
-  Over the past 2+ years, I've worked with React, Next.js, TypeScript, Node.js, Express, and MongoDB
-  to create projects ranging from e-commerce platforms and admin dashboards to authentication systems
-  and business applications.
-</p>
-
-<p>
-  I focus on writing clean, maintainable code, building reusable components, integrating APIs,
-  and improving performance. Most of my work revolves around turning ideas into responsive,
-  production-ready applications that are fast, scalable, and easy to use.
-</p>
-
-
+    <p>
+      I enjoy building web applications that solve real problems and provide a
+      smooth user experience. Over the past 2+ years, I've worked with React,
+      Next.js, TypeScript, Node.js, Express, and MongoDB to create projects
+      ranging from e-commerce platforms and admin dashboards to authentication
+      systems and business applications.
+    </p>
+    <p>
+      I focus on writing clean, maintainable code, building reusable
+      components, integrating APIs, and improving performance. Most of my work
+      revolves around turning ideas into responsive, production-ready
+      applications that are fast, scalable, and easy to use.
+    </p>
   </section>
-  <p>
-  <a href="https://mdfaizanahmad.vercel.app">
-    <img
-      src="https://img.shields.io/badge/Portfolio-Live-000?style=for-the-badge&logo=vercel"
-      alt="Portfolio"
-    />
-  </a>
 
-  <a href="https://linkedin.com/in/mdfaizandahmad">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"
-      alt="LinkedIn"
-    />
-  </a>
+  <!-- Social Links -->
+  <nav aria-label="Professional Links">
+    <p>
+      <a href="https://mdfaizanahmad.vercel.app">
+        <img
+          src="https://img.shields.io/badge/Portfolio-Live-000?style=for-the-badge&logo=vercel"
+          alt="Portfolio Website"
+        />
+      </a>
+      <a href="https://linkedin.com/in/mdfaizandahmad">
+        <img
+          src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"
+          alt="LinkedIn Profile"
+        />
+      </a>
+      <a href="https://instagram.com/webgrowth_studio">
+        <img
+          src="https://img.shields.io/badge/Instagram-@webgrowth__studio-E4405F?style=for-the-badge&logo=instagram"
+          alt="Instagram Profile"
+        />
+      </a>
+      <a href="mailto:md.faizan.ahmad.web@gmail.com">
+        <img
+          src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"
+          alt="Email Contact"
+        />
+      </a>
+    </p>
+  </nav>
 
-  <a href="https://instagram.com/webgrowth_studio">
-    <img
-      src="https://img.shields.io/badge/Instagram-@webgrowth__studio-E4405F?style=for-the-badge&logo=instagram"
-      alt="Instagram"
-    />
-  </a>
+  <!-- Featured Projects -->
+  <section>
+    <h2>Featured Projects</h2>
+    <p>
+      <a href="https://myazstore.shop">
+        <img
+          src="https://img.shields.io/badge/🛒_MyAZStore-Live-success?style=for-the-badge"
+          alt="MyAZStore"
+        />
+      </a>
+      <a href="https://luman-studio.vercel.app">
+        <img
+          src="https://img.shields.io/badge/🎨_Luman_Studio-Live-blue?style=for-the-badge"
+          alt="Luman Studio"
+        />
+      </a>
+      <a href="https://luman-hotel.vercel.app">
+        <img
+          src="https://img.shields.io/badge/🏨_Luman_Hotel-Live-orange?style=for-the-badge"
+          alt="Luman Hotel"
+        />
+      </a>
+      <a href="https://school-demo-sepia.vercel.app">
+        <img
+          src="https://img.shields.io/badge/🏫_School_Demo-Live-purple?style=for-the-badge"
+          alt="School Management Demo"
+        />
+      </a>
+    </p>
+  </section>
 
-  <a href="mailto:md.faizan.ahmad.web@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"
-      alt="Email"
-    />
-  </a>
-</p>
+  <!-- Tech Stack -->
+  <section>
+    <h2>Tech Stack</h2>
+    <p>
+      <img
+        src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,nodejs,mongodb,firebase,git,vercel,postman&theme=dark"
+        alt="React, Next.js, Tailwind CSS, JavaScript, TypeScript, Node.js, MongoDB, Firebase, Git, Vercel and Postman"
+      />
+    </p>
+  </section>
 
-
- 
-<p>
-  <a href="https://myazstore.shop">
-    <img src="https://img.shields.io/badge/🛒_MyAZStore-Live-success?style=for-the-badge" />
-  </a>
-
-  <a href="https://luman-studio.vercel.app">
-    <img src="https://img.shields.io/badge/🎨_Luman_Studio-Live-blue?style=for-the-badge" />
-  </a>
-
-  <a href="https://luman-hotel.vercel.app">
-    <img src="https://img.shields.io/badge/🏨_Luman_Hotel-Live-orange?style=for-the-badge" />
-  </a>
-
-  <a href="https://school-demo-sepia.vercel.app">
-    <img src="https://img.shields.io/badge/🏫_School_Demo-Live-purple?style=for-the-badge" />
-  </a>
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,nodejs,mongodb,firebase,git,vercel,postman&theme=dark" />
-</p> 
+</header>
 <section>
   <h2>🚀 Featured Projects</h2>
   <article>
