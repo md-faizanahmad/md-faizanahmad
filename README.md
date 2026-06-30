@@ -1,5 +1,11 @@
 <!-- ================= HERO ================= -->
 
+  <p>
+    <img
+      src="https://komarev.com/ghpvc/?username=md-faizanahmad&label=Profile%20views&color=0e75b6&style=flat"
+      alt="Profile views counter"
+    />
+  </p>
 <header>
   <h1>Hello, I'm Md Faizan Ahmad</h1>
   <p>
@@ -63,12 +69,6 @@
 </p>
 
   
-  <p>
-    <img
-      src="https://komarev.com/ghpvc/?username=md-faizanahmad&label=Profile%20views&color=0e75b6&style=flat"
-      alt="Profile views counter"
-    />
-  </p>
 
  
 <p align="center">
