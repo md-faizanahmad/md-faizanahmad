@@ -295,6 +295,21 @@
 
 ---
 </section>
+<section>
+  <h2>🎯 Career Goal</h2>
+
+  <p>
+    My goal is not just to build a career as a developer or write code for a living. I want to grow into someone who can understand real problems, work with talented people from different backgrounds, and use technology to create solutions that make a meaningful impact.
+  </p>
+
+  <p>
+    I believe software has the power to improve businesses, communities, and everyday life. As I continue learning and gaining experience, I want to contribute to projects that solve real-world challenges, create long-term value, and positively influence society.
+  </p>
+
+  <p>
+    In the future, I hope to grow beyond being an individual contributor and become a technology leader, builder, and problem solver—someone who helps create innovative products, supports meaningful ideas, and contributes to the advancement of the software industry and society as a whole.
+  </p>
+</section>
 
    
   <p >
@@ -306,20 +321,6 @@
 
 
 
-  <section>
-    <h2>🎯 Career Goal</h2>
-
-<p>
-  My goal is to build impactful and scalable web applications that solve
-  real-world problems while continuously improving my expertise in modern
-  web technologies and software engineering. I enjoy transforming ideas into
-  production-ready products and aspire to grow as a well-rounded software
-  developer capable of designing, building, and maintaining complete web
-  applications from concept to deployment.
-</p>
-
-
-  </section>
 <main>
     <section align="center">
     <h2>📊 GitHub Statistics</h2>
