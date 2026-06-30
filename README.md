@@ -119,16 +119,18 @@
   </section>
 
 </header>
+
+
+
+<!-- ================= Sections ================= -->
 <section>
-  <h2>🚀 Featured Projects</h2>
-  <article>
-    <h3>🛒 MyAZStore — Full-Stack E-commerce Platform</h3>
-<p>
-  <strong>Live:</strong>
-  <a href="https://myazstore.shop" target="_blank" rel="noopener noreferrer">
-    Shop
-  </a>
-</p>
+  <h2>🚀 Featured Projects</h2><table>
+<tr>
+<td width="100%">
+
+### 🛒 MyAZStore — Full-Stack E-commerce Platform
+
+**Live:** <a href="https://myazstore.shop">Shop</a>
 
 <p align="center">
   <img
@@ -143,19 +145,26 @@
   />
 </p>
 
+#### Tech Stack
+
 <p>
-  <strong>Stack:</strong>
-  React • JavaScript • Node.js • MongoDB • Zustand • Vercel • More
+  <img
+    src="https://skillicons.dev/icons?i=react,js,nodejs,mongodb,git,vercel&theme=dark"
+    alt="Tech Stack"
+  />
 </p>
 
-<ul>
-  <li>JWT authentication with HttpOnly cookies</li>
-  <li>Google Multi-Factor Authentication for admin</li>
-  <li>Razorpay payment integration</li>
-  <li>Automated PDF invoice generation</li>
-</ul>
+| Features | |
+|---|---|
+| 🔐 | JWT Authentication with HttpOnly Cookies |
+| 🛡️ | Google Multi-Factor Authentication |
+| 💳 | Razorpay Payment Integration |
+| 📄 | Automated PDF Invoice Generation |
 
-  </article>
+</td>
+</tr>
+</table>
+
   <!-- Luman Studio -->
   <article>
     <h3>🎨 Luman Studio — Interactive Storytelling UI</h3>
@@ -265,7 +274,7 @@
     alt="Contribution Graph"
   />
 </p>
-</header>
+
 
   <section>
     <h2>🎯 Career Goal</h2>
