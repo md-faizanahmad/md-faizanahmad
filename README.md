@@ -303,40 +303,48 @@
   </p>
 </section>
 
-  <p>
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=md-faizanahmad&theme=tokyo-night&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
+ <!-- ========== GitHub Activity & Statistics -->
+<section>
+  <h2>📊 GitHub Activity & Statistics</h2>
 
-
-
-<main>
-    <section align="center">
-    <h2>📊 GitHub Statistics</h2>
-
- ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=md-faizanahmad&show_icons=true&theme=tokyonight)
-<p align="center">
-  
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=md-faizanahmad&layout=compact&theme=tokyonight&hide_border=true"
-    width="45%"
-    alt="Top languages"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=md-faizanahmad&theme=tokyonight&hide_border=true"
-    width="45%"
-    alt="GitHub streak"
-  />
-
-
+  <!-- Activity Graph -->
+  <p align="center">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=md-faizanahmad&theme=tokyo-night&hide_border=true"
+      width="90%"
+      alt="GitHub Activity Graph"
+    />
   </p>
->
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-faizanahmad&theme=tokyonight"
-    alt="Profile Summary"
-  />
-</p>
-</main>
+
+  <!-- Stats + Languages + Streak -->
+  <p align="center">
+    <img
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=md-faizanahmad&show_icons=true&theme=tokyonight&hide_border=true"
+      width="48%"
+      alt="GitHub Stats"
+    />
+    <img
+      src="https://streak-stats.demolab.com?user=md-faizanahmad&theme=tokyonight&hide_border=true"
+      width="48%"
+      alt="GitHub Streak"
+    />
+  </p>
+
+  <p align="center">
+    <img
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=md-faizanahmad&layout=compact&theme=tokyonight&hide_border=true"
+      width="40%"
+      alt="Top Languages"
+    />
+  </p>
+
+  <!-- Profile Summary -->
+  <p align="center">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-faizanahmad&theme=tokyonight"
+      width="90%"
+      alt="Profile Summary"
+    />
+  </p>
+
+</section>
