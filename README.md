@@ -85,7 +85,7 @@
   </a>
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,nodejs,mongodb,firebase,git,vercel,postman,api" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,nodejs,mongodb,firebase,git,vercel,postman&theme=dark" />
 </p> 
 <section>
   <h2>🚀 Featured Projects</h2>
