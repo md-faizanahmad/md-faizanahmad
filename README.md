@@ -164,12 +164,9 @@
 ---
 
   <!-- Luman Studio -->
- <article>
-
+ <!-- <article>
 ### 🎨 Luman Studio — Interactive Storytelling UI
-
 **Live:** <a href="https://luman-studio.vercel.app">Live Demo</a>
-
 <p>
   <img
     src="https://res.cloudinary.com/dyefyrszz/image/upload/v1775581928/luman-stdio_cctkn5_guenon.png"
@@ -177,9 +174,7 @@
     width="60%"
   />
 </p>
-
 #### Tech Stack
-
 <p>
   <img
     src="https://skillicons.dev/icons?i=nextjs,ts,tailwind&theme=dark"
@@ -191,17 +186,14 @@
     width="48"
     alt="Framer Motion"
   />
-
 </p>
-
 | Feature | Description |
 | :--- | :--- |
 | ✨ | Advanced Framer Motion Animations |
 | 🎬 | Scroll-driven Transitions & Parallax Effects |
 | ⚡ | Next.js Performance Optimization |
-
 </article>
-
+-->
 ---
   <!-- Luman Hotel -->
   <article>
@@ -311,8 +303,7 @@
   </p>
 </section>
 
-   
-  <p >
+  <p>
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=md-faizanahmad&theme=tokyo-night&hide_border=true"
     alt="GitHub Activity Graph"
