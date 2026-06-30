@@ -333,18 +333,19 @@
   <p align="center">
     <img
       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=md-faizanahmad&layout=compact&theme=tokyonight&hide_border=true"
-      width="40%"
+      width="49%"
       alt="Top Languages"
+    />
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-faizanahmad&theme=tokyonight"
+      width="49%"
+      alt="Profile Summary"
     />
   </p>
 
   <!-- Profile Summary -->
   <p align="center">
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-faizanahmad&theme=tokyonight"
-      width="90%"
-      alt="Profile Summary"
-    />
+    
   </p>
 
 </section>
