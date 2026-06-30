@@ -186,6 +186,13 @@
     src="https://skillicons.dev/icons?i=nextjs,ts,tailwind&theme=dark"
     alt="Tech Stack"
   />
+  &nbsp;
+  <img
+    src="https://cdn.simpleicons.org/framer/ffffff"
+    width="48"
+    alt="Framer Motion"
+  />
+
 </p>
 
 | Feature | Description |
