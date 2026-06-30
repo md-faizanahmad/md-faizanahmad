@@ -224,24 +224,9 @@
   </article>
 </section>
 
-  <section>
-    <h2>💻 Tech Stack</h2>
-
-<p align="left">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React" hspace="5" />
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" alt="Next" hspace="5" />
-     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS" hspace="5" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" hspace="5" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" hspace="5" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js" hspace="5" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB" hspace="5" />
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git" hspace="5"  />
-         <img src="https://www.gstatic.com/mobilesdk/240501_mobilesdk/firebase_28dp.png" width="40" alt="Firebase-Console" hspace="5" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vercel_logo_2025.svg/1920px-Vercel_logo_2025.svg.png" width="40" alt="Vercel" hspace="5"  />
-
-</p>
-  </section
-    <p align="center">
+ <p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,nodejs,mongodb,firebase,git,vercel" />
+</p>   <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=md-faizanahmad&theme=tokyo-night&hide_border=true"
     alt="Contribution Graph"
