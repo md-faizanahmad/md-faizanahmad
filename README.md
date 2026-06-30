@@ -1,11 +1,16 @@
 <!-- ================= HERO ================= -->
-
   <p>
     <img
       src="https://komarev.com/ghpvc/?username=md-faizanahmad&label=Profile%20views&color=0e75b6&style=flat"
       alt="Profile views counter"
     />
   </p>
+<p>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1200&color=F5F5F5&background=00000000&vCenter=true&width=700&lines=React+Developer;Next.js+Developer;Full+Stack+Web+Developer;Building+Production+Ready+Applications"
+    alt="Typing SVG"
+  />
+</p>
 <header>
   <h1>Hello, I'm Md Faizan Ahmad</h1>
   <p>
@@ -61,12 +66,6 @@
 </p>
 
 
-<p align="left">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1200&color=F5F5F5&background=00000000&vCenter=true&width=700&lines=React+Developer;Next.js+Developer;Full+Stack+Web+Developer;Building+Production+Ready+Applications"
-    alt="Typing SVG"
-  />
-</p>
 
   
 
