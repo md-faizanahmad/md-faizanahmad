@@ -308,7 +308,7 @@
   <h2>📊 GitHub Activity & Statistics</h2>
 
   <!-- Activity Graph -->
-  <p align="center">
+  <p>
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=md-faizanahmad&theme=tokyo-night&hide_border=true"
       width="90%"
