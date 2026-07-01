@@ -3,8 +3,7 @@
 
   <!-- Profile Views -->
   <p>
-    <img
-      src="https://komarev.com/ghpvc/?username=md-faizanahmad&label=Profile%20views&color=0e75b6&style=flat"
+    <img src="https://komarev.com/ghpvc/?username=md-faizanahmad&label=Profile%20views&color=0e75b6&style=flat"
       alt="Profile views counter"
     />
   </p>
