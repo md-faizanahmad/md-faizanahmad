@@ -335,8 +335,7 @@
       width="35%"
       alt="Top Languages"
     />
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-faizanahmad&theme=tokyonight"
+    <img    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-faizanahmad&theme=tokyonight"
       width="55%"
       height="60%"
       alt="Profile Summary"
