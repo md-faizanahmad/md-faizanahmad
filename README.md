@@ -318,8 +318,7 @@
 
   <!-- Stats + Languages + Streak -->
   <p>
-    <img
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=md-faizanahmad&show_icons=true&theme=tokyonight&hide_border=true"
+    <img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=md-faizanahmad&show_icons=true&theme=tokyonight&hide_border=true"
       width="48%"
       alt="GitHub Stats"
     />
