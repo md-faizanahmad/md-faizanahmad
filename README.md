@@ -323,8 +323,7 @@
       width="48%"
       alt="GitHub Stats"
     />
-    <img
-      src="https://streak-stats.demolab.com?user=md-faizanahmad&theme=tokyonight&hide_border=true"
+    <img  src="https://streak-stats.demolab.com?user=md-faizanahmad&theme=tokyonight&hide_border=true"
       width="48%"
       alt="GitHub Streak"
     />
