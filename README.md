@@ -330,7 +330,7 @@
     />
   </p>
 
-  <p >
+  <p>
     <img
       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=md-faizanahmad&layout=compact&theme=tokyonight&hide_border=true"
       width="35%"
