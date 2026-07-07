@@ -22,7 +22,7 @@
   <!-- Experience -->
   <p>
     💼 <strong>2+ Years Experience</strong>
-    • ⚛️ <strong>React Ecosystem</strong>
+    • ⚛️ <strong>React </strong>
     • 🚀 <strong>Production Applications</strong>
     • 🌍 <strong>Open to Opportunities</strong>
   </p>
