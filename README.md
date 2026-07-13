@@ -128,7 +128,7 @@
 
 ### 🛒 MyAZStore — Full-Stack E-commerce Platform
 
-**Live:** <a href="https://myazstore.shop">Shop</a>
+**Live:** <a href="https://myazstore.shop">Shop</a> <a href="https://myaz-store.vercel.app/">Shop </a>
 
 <p align="center">
   <img
