@@ -141,13 +141,16 @@
     alt="Admin Dashboard"
     width="49%"
   />
+  
+</p>
+<p align="center">
     <img
     src="https://res.cloudinary.com/dyefyrszz/image/upload/v1771411922/myazstore-products_luktwx.png"
     alt="Shop page"
     width="49%"
   />
  <img
-    src="https://res.cloudinary.com/dyefyrszz/image/upload/v1771411933/Invoice-699599266e29f0e50a668065_fka7cc.pdf"
+    src="https://res.cloudinary.com/dyefyrszz/image/upload/v1783964799/Invoice_ycweud.png"
     alt="Invoice"
     width="49%"
   />
