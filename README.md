@@ -144,16 +144,17 @@
   
 </p>
 <p align="center">
+  <img
+    src="https://res.cloudinary.com/dyefyrszz/image/upload/v1783964799/Invoice_ycweud.png"
+    alt="Invoice"
+    width="49%"
+  />
     <img
     src="https://res.cloudinary.com/dyefyrszz/image/upload/v1771411922/myazstore-products_luktwx.png"
     alt="Shop page"
     width="49%"
   />
- <img
-    src="https://res.cloudinary.com/dyefyrszz/image/upload/v1783964799/Invoice_ycweud.png"
-    alt="Invoice"
-    width="49%"
-  />
+ 
 </p>
 
 #### Tech Stack
