@@ -48,8 +48,7 @@
   <nav aria-label="Professional Links">
     <p>
       <a href="https://mdfaizanahmad.vercel.app">
-        <img
-          src="https://img.shields.io/badge/Portfolio-Live-000?style=for-the-badge&logo=vercel"
+        <img src="https://img.shields.io/badge/Portfolio-Live-000?style=for-the-badge&logo=vercel"
           alt="Portfolio Website"
         />
       </a>
