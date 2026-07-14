@@ -124,7 +124,7 @@
   <h2>🚀 Featured Projects</h2>
   <article>
 
-### 🛒 MyAZStore — Full-Stack E-commerce Platform
+### 🛒 MyAZStore — Full-Stack E-commerce Platform with Admin panel 
 
 **Live:** <a href="https://myazstore.shop">Shop</a> 
 <!-- <a href="https://myaz-store.vercel.app">Permenent Link of Shop </a> -->
