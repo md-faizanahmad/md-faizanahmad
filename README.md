@@ -21,7 +21,7 @@
   <!-- Experience -->
   <p>
     💼 <strong>2+ Years Experience</strong>
-    • ⚛️ <strong>React </strong>
+    • ⚛️ <strong>React  </strong>
     • 🚀 <strong>Production Applications</strong>
     • 🌍 <strong>Open to Opportunities</strong>
   </p>
@@ -32,7 +32,7 @@
     <p>
       I enjoy building web applications that solve real problems and provide a
       smooth user experience. Over the past 2+ years, I've worked with React,
-      Next.js, TypeScript, Node.js, Express, and MongoDB to create projects
+      Next.js,TypeScript, Node.js, Express, and MongoDB to create projects
       ranging from e-commerce platforms and admin dashboards to authentication
       systems and business applications.
     </p>
