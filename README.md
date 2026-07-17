@@ -28,7 +28,7 @@
 
   <!-- About -->
   <section>
-    <h2>React Developer | React • Next.js • JavaScript • TypeScript</h2>
+    <h2>React Developer | React • Next.js • JavaScript • TypeScript • Tailwind</h2>
     <p>
       I enjoy building web applications that solve real problems and provide a
       smooth user experience. Over the past 2+ years, I've worked with React,
