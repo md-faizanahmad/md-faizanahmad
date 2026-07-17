@@ -9,7 +9,7 @@
   </p>
 
   <!-- Name -->
-  <h1>Hello, I'm Md Faizan Ahmad </h1>
+  <h1>Hello, I'm Md Faizan Ahmad. </h1>
 
   <!-- Animated Role -->
   <p>
