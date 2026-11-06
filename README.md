@@ -1,5 +1,5 @@
 <!-- ================= HERO ================= -->
-<div align="center">
+<div >
 
   <!-- Profile Views -->
   <p>
