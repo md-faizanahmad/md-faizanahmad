@@ -1,20 +1,22 @@
 <!-- ================= HERO ================= -->
-<header>
+<div align="center">
 
   <!-- Profile Views -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=md-faizanahmad&label=Profile%20views&color=0e75b6&style=flat"
       alt="Profile views counter"
+      height="22"
     />
   </p>
 
   <!-- Name -->
-  <h1>Hello, I'm Md Faizan Ahmad. </h1>
+  <h1 align="center">Hello, I'm Md Faizan Ahmad. </h1>
 
   <!-- Animated Role -->
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1200&color=F5F5F5&background=00000000&vCenter=true&width=700&lines=React+Developer;Next.js+Developer;Full+Stack+Web+Developer;Building+Production+Ready+Applications"
       alt="Professional roles animation"
+      width="100%"
     />
   </p>
 
@@ -28,7 +30,7 @@
 
   <!-- About -->
   <section>
-    <h2>React Developer | React • Next.js • JavaScript • TypeScript • Tailwind</h2>
+    <h2 align="center">React Developer | React • Next.js • JavaScript • TypeScript • Tailwind</h2>
     <p>
       I enjoy building web applications that solve real problems and provide a
       smooth user experience. Over the past 2+ years, I've worked with React,
@@ -75,7 +77,7 @@
 
   <!-- Featured Projects -->
   <section>
-    <h2>Featured Projects</h2>
+    <h2 align="center">Featured Projects</h2>
     <p>
       <a href="https://myazstore.shop">
         <img
@@ -106,22 +108,23 @@
 
   <!-- Tech Stack -->
   <section>
-    <h2>Tech Stack</h2>
+    <h2 align="center">Tech Stack</h2>
     <p>
       <img
         src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,nodejs,mongodb,firebase,git,vercel,postman&theme=dark"
         alt="React, Next.js, Tailwind CSS, JavaScript, TypeScript, Node.js, MongoDB, Firebase, Git, Vercel and Postman"
+        width="90%"
       />
     </p>
   </section>
 
-</header>
+</div>
 
 
 
 <!-- ================= Sections ================= -->
 <section>
-  <h2>🚀 Featured Projects</h2>
+  <h2 align="center">🚀 Featured Projects</h2>
   <article>
 
 ### 🛒 MyAZStore — Full-Stack E-commerce Platform with Admin panel 
@@ -133,27 +136,27 @@
   <img
     src="https://res.cloudinary.com/daqb5wglu/image/upload/v1766169968/ShopUI_evspte.png"
     alt="Storefront"
-    width="49%"
+    width="48%"
   />
   <img
     src="https://res.cloudinary.com/dyefyrszz/image/upload/v1775581914/AdminDash_hgfg18_obsmve.png"
     alt="Admin Dashboard"
-    width="49%"
+    width="48%"
   />
-  
+
 </p>
 <p align="center">
   <img
     src="https://res.cloudinary.com/dyefyrszz/image/upload/v1783964799/Invoice_ycweud.png"
     alt="Invoice"
-    width="49%"
+    width="48%"
   />
     <img
     src="https://res.cloudinary.com/dyefyrszz/image/upload/v1771411922/myazstore-products_luktwx.png"
     alt="Shop page"
-    width="49%"
+    width="48%"
   />
- 
+
 </p>
 
 #### Tech Stack
@@ -183,7 +186,7 @@
   <img
     src="https://res.cloudinary.com/dyefyrszz/image/upload/v1775581928/luman-stdio_cctkn5_guenon.png"
     alt="Animated storytelling UI with scroll-based interaction"
-    width="60%"
+    width="70%"
   />
 </p>
 #### Tech Stack
@@ -214,11 +217,11 @@
 
 **Live:** <a href="https://luman-hotel.vercel.app">Live Demo</a>
 
-<p >
+<p>
   <img
     src="https://res.cloudinary.com/dyefyrszz/image/upload/v1775581930/luman-hotel1_v5vv6v_ieo7bn.png"
     alt="Hotel booking interface with dynamic pricing"
-    width="60%"
+    width="70%"
   />
 </p>
 
@@ -257,17 +260,17 @@
   <img
     src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770280034/Header_yt9bly.png"
     alt="School website homepage with admission enquiry system"
-    width="40%"
+    width="32%"
   />
   <img
     src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770280031/Header_Footer_urdu8u.png"
     alt="School website header and footer"
-    width="40%"
+    width="32%"
   />
   <img
     src="https://res.cloudinary.com/dyefyrszz/image/upload/v1770280034/desktop_abgwcu.png"
     alt="School website desktop view"
-    width="40%"
+    width="32%"
   />
 </p>
 
@@ -300,7 +303,7 @@
 ---
 </section>
 <section>
-  <h2>🎯 Career Goal</h2>
+  <h2 align="center">🎯 Career Goal</h2>
 
   <p>
     My goal is not just to build a career as a developer or write code for a living. I want to grow into someone who can understand real problems, work with talented people from different backgrounds, and use technology to create solutions that make a meaningful impact.
@@ -317,44 +320,43 @@
 
  <!-- ========== GitHub Activity & Statistics -->
 <section>
-  <h2>📊 GitHub Activity & Statistics</h2>
+  <h2 align="center">📊 GitHub Activity & Statistics</h2>
 
   <!-- Activity Graph -->
-  <p>
+  <p align="center">
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=md-faizanahmad&theme=tokyo-night&hide_border=true"
-      width="90%"
+      width="100%"
       alt="GitHub Activity Graph"
     />
   </p>
 
   <!-- Stats + Languages + Streak -->
-  <p>
+  <p align="center">
     <img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=md-faizanahmad&show_icons=true&theme=tokyonight&hide_border=true"
-      width="48%"
+      width="47%"
       alt="GitHub Stats"
     />
     <img  src="https://streak-stats.demolab.com?user=md-faizanahmad&theme=tokyonight&hide_border=true"
-      width="48%"
+      width="47%"
       alt="GitHub Streak"
     />
   </p>
 
-  <p>
+  <p align="center">
     <img
       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=md-faizanahmad&layout=compact&theme=tokyonight&hide_border=true"
-      width="35%"
+      width="38%"
       alt="Top Languages"
     />
     <img  
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-faizanahmad&theme=tokyonight"
-      width="50%"
-      height="60%"
+      width="58%"
       alt="Profile Summary"
     />
   </p>
 
   <!-- Profile Summary -->
-  
+
 
 </section>
