@@ -10,7 +10,7 @@
   </p>
 
   <!-- Name -->
-  <h1 align="center">Hello, I'm Md Faizan Ahmad. </h1>
+  <h1 >Hello, I'm Md Faizan Ahmad. </h1>
 
   <!-- Animated Role -->
   <p>
@@ -30,7 +30,7 @@
 
   <!-- About -->
   <section>
-    <h2 align="center">React Developer | React • Next.js • JavaScript • TypeScript • Tailwind</h2>
+    <h2>React Developer | React • Next.js • JavaScript • TypeScript • Tailwind</h2>
     <p>
       I enjoy building web applications that solve real problems and provide a
       smooth user experience. Over the past 2+ years, I've worked with React,
@@ -77,7 +77,7 @@
 
   <!-- Featured Projects -->
   <section>
-    <h2 align="center">Featured Projects</h2>
+    <h2>Featured Projects</h2>
     <p>
       <a href="https://myazstore.shop">
         <img
@@ -108,7 +108,7 @@
 
   <!-- Tech Stack -->
   <section>
-    <h2 align="center">Tech Stack</h2>
+    <h2 align="center>Tech Stack</h2>
     <p>
       <img
         src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,nodejs,mongodb,firebase,git,vercel,postman&theme=dark"
