@@ -79,7 +79,7 @@
   <section>
     <h2>Featured Projects</h2>
     <p>
-      <a href="https://myazstore.shop">
+      <a href="azstore.mdfaizanahmad.in">
         <img
           src="https://img.shields.io/badge/🛒_MyAZStore-Live-success?style=for-the-badge"
           alt="MyAZStore"
